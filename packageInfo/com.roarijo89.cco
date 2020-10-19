@@ -2,11 +2,11 @@
 	"name": "cco",
 	"desc_long": "🚨 Export your flex 3 projects without writing them you get all the code on a folder🚨<p><p><p>",
 	"compatitle": "iOS 11 12 13 14",
-	"changelog": "<strong>1.0</strong><br><br> <strong>1.1</strong><br>Export your flex 3 projects without writing them you get all the code on a folder<br>",
+	"changelog": "<strong>1.0</strong><br><br> <strong>1.1</strong><br>updated some info<br>",
 	"screenshot": null,
 	"open": true,
 
-"warning": "support <br>Flex 3<br> <br>Flex to theos Coco Tweaks version<br>",
+"warning": "support <br>Flex 3 <br>Flex to theos Coco Tweaks version<br>",
 
 }
 
