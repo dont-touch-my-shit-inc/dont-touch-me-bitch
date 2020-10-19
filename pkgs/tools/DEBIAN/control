@@ -1,0 +1,11 @@
+Package: com.roarijo89.tools
+Name: Tools 
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: read Description
+Maintainer: roarijo89
+Author: roarijo89
+Section: Tools🛠
+Version: 1.4
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.tools
+Installed-Size: 5572

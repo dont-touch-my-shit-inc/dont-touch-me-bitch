@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.roarijo89.tool</string>
+			<key>icon</key>
+			<string>pou.png</string>
+			<key>key</key>
+			<string>ista</string>
+			<key>label</key>
+			<string>Unlimited status</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.roarijo89.tool</string>
+			<key>icon</key>
+			<string>pou.png</string>
+			<key>key</key>
+			<string>iscoins</string>
+			<key>label</key>
+			<string>Coins 9999</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.roarijo89.tool</string>
+			<key>icon</key>
+			<string>pou.png</string>
+			<key>key</key>
+			<string>islevel</string>
+			<key>label</key>
+			<string>Level 9999</string>
+             </dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSTitleValueCell</string>
+			<key>label</key>
+			<string>                              Pou hack v1.1</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Pou Hack</string>
+</dict>
+</plist>

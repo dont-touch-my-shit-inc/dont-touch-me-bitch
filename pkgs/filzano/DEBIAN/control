@@ -1,0 +1,10 @@
+Package: com.roarijo89.filza
+Name: Filza remove Activate Page popup
+Description:read description
+Depends: mobilesubstrate
+Maintainer: roarijo89
+Author: roarijo89
+Architecture: iphoneos-arm
+Section: _Tweaks_
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.filza
+Version: 1.0.0

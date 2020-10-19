@@ -1,0 +1,11 @@
+Package: com.180.instagram
+Name: instagram rocket 
+Author: stem grade
+Description: read description
+Depends: mobilesubstrate, preferenceloader
+Maintainer: stem grade
+Architecture: iphoneos-arm
+Section: stem_grade
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.instagram
+Version: 0.0.3
+Installed-Size: 656

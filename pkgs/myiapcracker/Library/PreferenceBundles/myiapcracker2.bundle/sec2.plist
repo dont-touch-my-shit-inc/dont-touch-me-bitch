@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+       <dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>height</key>
+			<string>193</string>
+			<key>icon</key>
+			<string>icons/banner3.png</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+        <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/er@2x.png</string>
+			<key>key</key>
+			<string>MediaBoxNoAds</string>
+			<key>label</key>
+			<string>Media Box NoAds</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key1</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>WebSite Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/showbox@2x.png</string>
+			<key>key</key>
+			<string>MovieShowBoxNoAds</string>
+			<key>label</key>
+			<string>Movie Show Box NoAds</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key2</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>No Link apple removed it</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/fite@2x.png</string>
+			<key>key</key>
+			<string>FiteTvUnlocker</string>
+			<key>label</key>
+			<string>Fite Tv Unlock ver 4.2.1</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key3</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/playm@2x.png</string>
+			<key>key</key>
+			<string>AudioMackPre</string>
+			<key>label</key>
+			<string>AudiMack Premium</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key4</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/showboxl@2x.png</string>
+			<key>key</key>
+			<string>ShowBoxLoca</string>
+			<key>label</key>
+			<string>ShowBox Loca NoAds</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key5</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>No YouTube label in video to remove ads used my inapp purchase in jailbreak app section￼</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/muis@2x.png</string>
+			<key>key</key>
+			<string>Oled</string>
+			<key>label</key>
+			<string>Musi</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key6</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/mytuner@2x.png</string>
+			<key>key</key>
+			<string>Tuner</string>
+			<key>label</key>
+			<string>MyTunerRadio Premium</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key7</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>link</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>icon/Paypal@2x.png</string>
+			<key>label</key>
+			<string>Buy ME A BEER</string>
+       </dict>
+	</array>
+	<key>title</key>
+	<string>Streaming</string>
+</dict>
+</plist>

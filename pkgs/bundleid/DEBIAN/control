@@ -1,0 +1,11 @@
+Package: com.roarijo89.bundleid
+Name: Bundle ID finder app version
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Press on a app to copy bundle id
+Maintainer: roarijo89
+Author: roarijo89
+Section: _Tweaks_
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.bundleid
+Installed-Size: 108

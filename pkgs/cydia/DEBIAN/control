@@ -1,0 +1,11 @@
+Package: com.roarijo89.cydia
+Name: Cydia 2021 early version
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Coco Tweaks <>
+Description: read Description
+Author: roarijo89
+Section: _Tweaks_
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.cydia
+Version: 1.1
+Installed-Size: 172

@@ -1,0 +1,10 @@
+Package: com.roarijo89.IPAS
+Section: _Tweaks_
+Maintainer: roarijo89
+Architecture: iphoneos-arm
+Version: 1.0
+Pre-Depends: zip, unzip, ldid, sed, grep, curl
+Description: read Description
+Name: IPAS
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.IPAS
+Author: roarijo89

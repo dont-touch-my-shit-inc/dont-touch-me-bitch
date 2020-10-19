@@ -1,0 +1,4 @@
+delete everything: ./remove.sh
+make debs: ./pack.sh
+sign files: ./sign.sh
+deploy repo: firebase deploy --only hosting:adminrepo

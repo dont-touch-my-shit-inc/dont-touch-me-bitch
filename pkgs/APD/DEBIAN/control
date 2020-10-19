@@ -1,0 +1,12 @@
+Package: com.roarijo89.APD
+Version: 1.2
+Architecture: iphoneos-arm
+Name: App editor
+Description: read description
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.APD
+Depends: mobilesubstrate, preferenceloader, applist
+Maintainer: roarijo89
+Author: roarijo89
+Source: https://repo.cocotweaks.net
+Installed-Size: 716
+Section: _Tweaks_

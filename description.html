@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>coco Tweaks Repo</title>
+	<noscript>
+		<link rel="stylesheet" href="ios7.min.css?_=d" type="text/css" />
+	</noscript>
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link href="https://ai.cocotweaks.net/repopage/css/main.css" rel="stylesheet">
+	<link href="css/block.css" rel="stylesheet">
+	<link rel="shortcut icon" href="https://ai.cocotweaks.net/coc.png" type="image/x-icon">
+	<link rel="icon" href="https://ai.cocotweaks.net/coc.png" type="image/x-icon">
+	<link rel="stylesheet" href="@sweetalert2/theme-borderless/borderless.css">
+	<script src="sweetalert2/dist/sweetalert2.min.js"></script>
+	<link href="//cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@4/dark.css" rel="stylesheet">
+	<script src="//cdn.jsdelivr.net/npm/sweetalert2@10/dist/sweetalert2.min.js"></script>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+	<meta charset="utf-8">
+</head>
+<script src="jquery-3.2.1.min.js"></script>
+<script src="description.js?_=e"></script>
+<body onload="loadPackageInfo();loadPackages();">
+	<main id="content">
+		<span id="showAddRepo_" hidden>
+			<h2 role="header">coco Tweaks</h2>
+			<ul>
+				<li class="has-icon">
+					<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.cocotweaks.net" role="button" id="open_cydia">
+						<img style = "border-radius: 20%;" href="cydia7.png" alt="" srcset="cydia7.png 2x, cydia7.png 3x" class="icon"/>
+						<label>Open Cydia</label>
+					</a>
+				</li>
+			</ul>
+			<p style="text-align: center; font-size: 85%;" role="footer" id="neo">Please go back and come back</p>
+		</span>
+		<noscript>
+			<h2></h2><ul style="background:#ff0000"><center><li><p>Error JavaScript Disabled.</p></li></center></ul>
+		</noscript>
+		<span id="tweakStatusInfo"><h2></h2><ul style="background:#c6e8ff"><center><li><p id="errorInfo">Loading Description...</p></li></center></ul></span>
+		<span id="desc_short_" hidden><h2 id="name" hidden></h2><ul style="background:#c6e8ff"><center><li><p id="desc_short"></p></li></center></ul></span>
+		<span id="compatitle_" hidden>
+			<ul style="background:#00ff24"><center><li><p><i>Compatible with <span id="compatitle"></span></i></p></li></center></ul>
+			<p style="text-align:center;font-size:10px;" role="footer" id="neo" class="cur_ios"></p>
+		</span>
+		<span id="warning_" hidden><ul style="background:#102de8"><center><li><p><span id="warning"></span></p></li></center></ul></span>
+		<span id="desc_long_" hidden><h2>Description</h2><ul><li><p id="desc_long"></p></li></ul></span>
+		<span id="screenshot_" hidden><h2>Screenshot's</h2><ul><li><p id="screenshot"></p></li></ul></span>
+		<span id="is_open_source_" hidden><h2 id="name" hidden></h2><ul style="background:#f70c0c"><center><div style="text-align: center; font-size: 85%; margin-top: 10px; color: white;" class="copy-title"><b></b></div></strong></center></ul></span>
+		<span id="changelog_" hidden><h2>Changelog</h2><ul><li><p id="changelog"></p></li></ul></span>
+		<span id="pkg_" hidden><h2 role="header">Package Info</h2><ul>
+			<li><p>Name<span class="value" id="pkg_name">-</span></p></li>
+			<li><p>Identifier<span class="value" id="pkg_id">-</span></p></li>
+			<li><p>Section<span class="value" id="pkg_section">-</span></p></li>
+			<li><p>Version<span class="value" id="pkg_version">-</span></p></li>
+			<li><p>Size<span class="value" id="pkg_size">-</span></p></li>
+			<li><p>Updated<span class="value" id="pkg_time">-</span></p></li>
+			</ul> 
+		</span>
+		<h2 role="header">Do you Want to Logout ?</h2>
+		<ul>
+			<li class="has-icon">
+				<a id="logout" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="log-out.png" alt="" srcset="log-out.png 2x, log-out.png 3x" class="icon"/>
+					<label>
+						Log out
+					</label>
+				</a>
+			</li>
+		</ul>
+		<div id="account-pp">
+			<img class="round" src="https://ai.cocotweaks.net/coc.png" draggable="false" width="50" height="50"> <h3 style="color:white;" id="subtitle">please login</h3>
+		</div>
+		<h2 role="header">Social</h2>
+		<ul>
+		
+			<li class="has-icon">
+				<a href="https://mobile.twitter.com/roarijo89tweaks" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/18/36/a8/1836a81b-04bf-30b3-61e8-cd8d36cb6984/source/512x512bb.jpg" alt="" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/18/36/a8/1836a81b-04bf-30b3-61e8-cd8d36cb6984/source/512x512bb.jpg" class="icon"/>
+					<label>Twitter</label>
+				</a>
+			</li>
+			<li class="has-icon">
+				<a href="https://www.instagram.com/roarijo89_tweaks/" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/2c/2c/21/2c2c2198-c981-6c6c-055a-75a3a29887bf/source/512x512bb.jpg" alt="" srcset="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/2c/2c/21/2c2c2198-c981-6c6c-055a-75a3a29887bf/source/512x512bb.jpg" class="icon"/>
+					<label>Instagram</label>
+				</a>
+			</li>
+			<li class="has-icon">
+				<a href="https://www.reddit.com/user/Coco_Tweaks" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/c4/9b/78/c49b7873-297f-f2a7-c097-3379cb12c3a0/source/512x512bb.jpg" alt="" srcset="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/c4/9b/78/c49b7873-297f-f2a7-c097-3379cb12c3a0/source/512x512bb.jpg" class="icon"/>
+					<label>Reddit</label>
+				</a>
+			</li>
+			<li class="has-icon">
+				<a href="https://www.youtube.com/channel/UCRp-V661RJ0Vhzm6ZVZBNGw" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/b2/b8/2a/b2b82adc-2233-cbb0-cfcd-3227b6187bc9/source/512x512bb.jpg" alt="" srcset="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/b2/b8/2a/b2b82adc-2233-cbb0-cfcd-3227b6187bc9/source/512x512bb.jpg" class="icon"/>
+					<label>Youtube</label>
+				</a>
+			</li>
+		</ul>
+
+		<h2 role="header">Extra</h2>
+		<ul>
+			<li class="has-icon">
+				<a href="https://roarijo89.wixsite.com/roarijo89tweaks/support" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="customer-support.png" alt="" srcset="customer-support.png, customer-support.png" class="icon"/>
+					<label>Support</label>
+				</a>
+			</li>
+			<li class="has-icon">
+				<a href="https://accounts.cocotweaks.net/account/" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="user-profiles.png" alt="" srcset="user-profiles.png, user-profiles.png" class="icon"/>
+					<label>Manage my account</label>
+				</a>
+			</li>
+<li class="has-icon">
+				<a href="https://roarijo89.wixsite.com/roarijo89tweaks/request-page" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="request.png" alt="" srcset="request.png, request.png" class="icon"/>
+					<label>Request page</label>
+				</a>
+			</li>
+			<li class="has-icon">
+				<a onclick="pop()" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="tick.png" alt="" srcset="tick.png, tick.png" class="icon"/>
+					<label>Whats new</label>
+				</a>
+			</li>
+		</ul>
+		<span id="updates_" hidden><h2 role="header">Last Updates</h2><ul id="updates"></ul></span>
+		<span id="browser_" hidden><h2 role="header">Browse Packages</h2><ul id="browser"></ul></span>		
+	</main>
+	<div style="text-align: center; font-size: 85%; margin-top: 10px; color: white;" class="copy-title"><b></b></div></strong>
+	<br>
+	<br>
+	<center><span style="color: white; box-sizing: border-box; font-family: Georgia, 'Times New Roman', Times, serif;">ADS</span> </center>
+	<center><h4 style="color: white;">We dont control what you see here</h4> </center>
+<div style="border: white; background-color: #444644;">
+	<br>
+<center><script data-cfasync="false" type="text/javascript" src="https://www.dexpredict.com/a/display.php?r=3788839"></script></center>	
+</div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/3.3.0/firebase.js"></script>
+    <script src="csss/toastr/toastr.min.js"></script>
+    <script src="https://cdn.ckeditor.com/4.5.10/standard/ckeditor.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/block.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.9.3/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.9.3/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.9.3/firebase-firestore.js"></script>
+    <script src="assets/js/tyty.js"></script>
+	<script src="assets/js/auth.js"></script>
+	<script src="js/new.js"></script>
+<script>
+        firebase.auth().onAuthStateChanged(function (user) {
+                if (user) {
+                    document.getElementById('logout').onclick = function () {
+                         {
+                            firebase.auth().signOut();
+                        }
+                    };
+                } else {
+                    window.location.href = 'login.html';
+                }
+            });
+		</script>
+</body>
+</html>

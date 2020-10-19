@@ -1,0 +1,11 @@
+Package: com.roarijo89.snap
+Name: Snapchat hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: read Description
+Maintainer: Coco Tweaks
+Author: roarijo89
+Section: _Tweaks_
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.snap
+Version: 1.2
+Installed-Size: 1468

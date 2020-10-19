@@ -1,0 +1,13 @@
+Package: com.roarijo89.superGesture
+Version: 1.1
+Architecture: iphoneos-arm
+Name: Super Gesture
+Description: Read description
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.superGesture
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Maintainer: roarijo89
+Author: roarijo89
+Origin: Coco Tweaks repo
+Source: https://repo.cocotweaks.net
+Installed-Size: 176
+Section: _Tweaks_

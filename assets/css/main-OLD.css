@@ -1,0 +1,254 @@
+/*
+
+Gray: #8e8e93
+
+*/
+
+@font-face {
+    font-family: 'SF UI Display Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Display Light'), url('../fonts/sf-ui-display-light-58646b33e0551.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SF UI Display Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Display Medium'), url('../fonts/sf-ui-display-medium-58646be638f96.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SF UI Display Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Display Bold'), url('../fonts/sf-ui-display-bold-58646a511e3d9.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SF UI Display Heavy';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF UI Display Heavy'), url('../fonts/sf-ui-display-heavy-586470160b9e5.woff') format('woff');
+}
+
+*,
+*:after,
+*:before {
+    /* -webkit-box-sizing: border-box; */
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: "SF UI Display Medium";
+    scroll-behavior: smooth;
+    width: auto;
+}
+
+div {
+    display: block;
+}
+
+a {
+    font-family: inherit;
+    transition: all 0.3s ease 0s;
+}
+
+a:hover {
+    color: #8080ff;
+}
+
+button {
+    color: #ffffff;
+    outline: none;
+}
+
+button {
+    padding: 9px 25px;
+    background-color: #8080ff;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover {
+    opacity: 80%;
+}
+
+.big-button {
+    padding: 70px;
+}
+
+.big-button button {
+    padding: 20px 70px;
+    font-size: 20px;
+    font-family: "SF UI Display Bold";
+}
+
+.forgot-password {
+    color: #8080ff;
+    font-size: 11px;
+}
+
+h1 {
+    font-family: "SF UI Display Heavy";
+    font-size: 100px;
+}
+
+h2 {
+    font-family: "SF UI Display Heavy";
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+h3 {
+    font-family: "SF UI Display Heavy";
+    font-size: 30px;
+    color: #8e8e93;
+}
+
+p {
+    font-family: "SF UI Display Light";
+    font-size: 30px;
+}
+
+li,
+a {
+    color: #8e8e93;
+    height: auto;
+    width: auto;
+}
+
+li,
+a,
+button {
+    text-decoration: none;
+}
+
+section div {
+    display: block;
+}
+
+section {
+    padding-left: 12vw;
+    padding-right: 12vw;
+    flex-direction: column;
+    display: flex;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
+
+#home {
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-container button {
+    margin-left: 81.53px;
+}
+
+.nav-container {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10%;
+    letter-spacing: 4px;
+    position: sticky;
+    top: 0;
+    width: auto;
+    height: 75px;
+    background-color: #eceefff2;
+    z-index: 99;
+    overflow: none;
+}
+
+.nav__links li {
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+.nav__links li {
+    font-family: "SF UI Display Bold";
+}
+
+.nav__links {
+    list-style: none;
+}
+
+#home {
+    height: 85%;
+    padding-top: 0;
+}
+
+#about {
+    background-color: #ECEEFF;
+}
+
+#features {
+    background-color: #000000;
+}
+
+#features h2,
+#features p {
+    color: #ffffff;
+}
+
+#performance {
+    background-color: #ECEEFF;
+}
+
+#logo {
+    width: 180px;
+    border-radius: 30%;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+#logo:hover {
+    opacity: 80%;
+}
+
+.mockup1 {
+    height: 50%;
+    width: 50%;
+}
+
+.mockup2 {
+    height: 50%;
+    width: 50%;
+}
+
+
+/*
+#team {	
+}
+*/
+
+@media (max-width:360px) {
+    h1 {
+        font-size: 60px;
+    }
+    h2 {
+        font-size: 35px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 20px;
+    }
+    .big-button button {
+        padding: 10px 15px;
+    }
+}
+
+.navbar {
+    padding: 10px 15px;
+}

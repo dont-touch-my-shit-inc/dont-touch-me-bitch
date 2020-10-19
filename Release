@@ -1,0 +1,8 @@
+Origin: Coco Tweaks
+Label: Coco Tweaks
+Suite: stable
+Version: 1.0
+Codename: coco
+Architecture: iphoneos-arm
+Components: main
+Description: Official Coco Tweaks repo
