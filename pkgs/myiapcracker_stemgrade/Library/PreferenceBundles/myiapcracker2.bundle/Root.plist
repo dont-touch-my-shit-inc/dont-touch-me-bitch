@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+        <dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>height</key>
+			<string>193</string>
+			<key>icon</key>
+			<string>icons/banner1.png</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+        <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+ 			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>sec1RootListController</string>
+          <key>icon</key>
+			<string>icon/vpn@2x.png</string>
+          <key>label</key>
+			<string>VPN Apps</string>
+		</dict>
+       <dict>
+		  <key>cell</key>
+		  <string>PSLinkCell</string>
+		  <key>detail</key>
+		  <string>sec2RootListController</string>
+         <key>icon</key>
+		  <string>icon/stre@2x.png</string>
+         <key>label</key>
+         <string>Streaming Apps</string>
+		</dict>
+       <dict>
+		  <key>cell</key>
+		  <string>PSLinkCell</string>
+		  <key>detail</key>
+		  <string>sec3RootListController</string>
+         <key>icon</key>
+		  <string>icon/appstore@2x.png</string>
+         <key>label</key>
+         <string>Appstore Apps</string>
+		</dict>
+       <dict>
+		  <key>cell</key>
+		  <string>PSLinkCell</string>
+		  <key>detail</key>
+		  <string>sec4RootListController</string>
+         <key>icon</key>
+		  <string>icon/jail@2x.png</string>
+         <key>label</key>
+         <string>Jailbreak Apps</string>
+      </dict>
+       <dict>
+		  <key>cell</key>
+		  <string>PSLinkCell</string>
+		  <key>detail</key>
+		  <string>sec5RootListController</string>
+         <key>icon</key>
+		  <string>icon/weather@2x.png</string>
+         <key>label</key>
+         <string>Weather+Calendar Apps</string>
+      </dict>
+       <dict>
+		  <key>cell</key>
+		  <string>PSLinkCell</string>
+		  <key>detail</key>
+		  <string>sec6RootListController</string>
+         <key>icon</key>
+		  <string>icon/sport@2x.png</string>
+         <key>label</key>
+         <string>Sports+Health Apps</string>
+      </dict>
+       <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+       <dict>
+			<key>action</key>
+			<string>see</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>icon/the@2x.png</string>
+			<key>label</key>
+			<string>INFO</string>
+       </dict>
+		<dict>
+			<key>action</key>
+			<string>link</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>icon/Paypal@2x.png</string>
+			<key>label</key>
+			<string>Buy ME A BEER</string>
+		</dict>
+       <dict>
+			<key>action</key>
+			<string>links</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+          <key>icon</key>
+			<string>icon/revoke@2x.png</string>
+			<key>label</key>
+			<string>Email for Ideas 💡</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>credits</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+          <key>icon</key>
+			<string>icon/sg@2x.png</string>
+			<key>label</key>
+			<string>Credits</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+			<string>My iapcracker2 ver 1.4</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>My iapcracker2</string>
+</dict>
+</plist>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+      <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>No ads and No ads badge</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.youtube</string>
+          <key>icon</key>
+			<string>p@2x.png</string>
+			<key>key</key>
+			<string>NoAds</string>
+			<key>label</key>
+			<string>No ads and no ads badge</string>
+		</dict>
+        <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.180.youtube</string>
+          <key>icon</key>
+			<string>p@21x.png</string>
+			<key>key</key>
+			<string>PlayableInBackground</string>
+			<key>label</key>
+			<string>Play In Background</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>link</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>Paypal.png</string>
+			<key>label</key>
+			<string>Buy Me a Beer</string>
+		</dict>
+       <dict>
+			<key>action</key>
+			<string>see</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>the@2x.png</string>
+			<key>label</key>
+			<string>InFo</string>
+       </dict>
+		<dict>
+			<key>action</key>
+			<string>links</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+                    <key>icon</key>
+			<string>revoke@2x.png</string>
+			<key>label</key>
+			<string>Email for reporting bugs</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>credits</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+          <key>icon</key>
+			<string>sg@2x.png</string>
+			<key>label</key>
+			<string>Credits</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+			<string>ＳｔｅｍＧｒａｄｅ</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>YouTube</string>
+</dict>
+</plist>

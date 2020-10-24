@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+       <dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>height</key>
+			<string>193</string>
+			<key>icon</key>
+			<string>icons/banner4.png</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+        <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/adg@2x.png</string>
+			<key>key</key>
+			<string>AdguardPro</string>
+			<key>label</key>
+			<string>Adguard Pro</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key1</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/circle@2x.png</string>
+			<key>key</key>
+			<string>RiplPro</string>
+			<key>label</key>
+			<string>Ripl Pro</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key2</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/ripl@2x.png</string>
+			<key>key</key>
+			<string>LifeAdvisorVip</string>
+			<key>label</key>
+			<string>Life Advisor Vip</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key3</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/pdf@2x.png</string>
+			<key>key</key>
+			<string>PdfExpert7Pro</string>
+			<key>label</key>
+			<string>Pdf Expert 7 Pro</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key4</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/kik@2x.png</string>
+			<key>key</key>
+			<string>KikNoAds</string>
+			<key>label</key>
+			<string>Kik NoAds</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key5</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/lab@2x.png</string>
+			<key>key</key>
+			<string>PhotoLabPro</string>
+			<key>label</key>
+			<string>Photo Lab Pro</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key6</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Active subscription Lifetime.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/test4@2x.png</string>
+			<key>key</key>
+			<string>ElevateBrainTraining</string>
+			<key>label</key>
+			<string>Elevate Brain Training</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key7</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Unlimited Chest / Gems / Energy / Cards / Upgrades / Mana / Allways 3 star / No cool down.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/weapon@2x.png</string>
+			<key>key</key>
+			<string>CrazyDefenseHack</string>
+			<key>label</key>
+			<string>Crazy Defense</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key8</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>DarkRoom Photo Editor Unlocker</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/black1@2x.png</string>
+			<key>key</key>
+			<string>DarkRoomUnlocker</string>
+			<key>label</key>
+			<string>DarkRoom Unlocker</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key9</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/dj@2x.png</string>
+			<key>key</key>
+			<string>djay</string>
+			<key>label</key>
+			<string>Djay Pro</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key11</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/jio@2x.png</string>
+			<key>key</key>
+			<string>JioSaavn</string>
+			<key>label</key>
+			<string>JioSaavn Pro</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key12</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/wolrd@2x.png</string>
+			<key>key</key>
+			<string>Mondly</string>
+			<key>label</key>
+			<string>Mondly Premium</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key13</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/focos@2x.png</string>
+			<key>key</key>
+			<string>Focos</string>
+			<key>label</key>
+			<string>Focos Pro</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key14</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/simp@2x.png</string>
+			<key>key</key>
+			<string>Simple</string>
+			<key>label</key>
+			<string>Simple Radio Unlocker</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key15</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/voice@2x.png</string>
+			<key>key</key>
+			<string>Voice</string>
+			<key>label</key>
+			<string>The Voice Karaoke Vip</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key16</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/per@2x.png</string>
+			<key>key</key>
+			<string>Maker</string>
+			<key>label</key>
+			<string>Intro maker</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key17</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.myiapcracker</string>
+          <key>icon</key>
+			<string>icon/snap@2x.png</string>
+			<key>key</key>
+			<string>Snap</string>
+			<key>label</key>
+			<string>Snap translate Unlock</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>key18</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>App Store Link</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>link</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>icon/Paypal@2x.png</string>
+			<key>label</key>
+			<string>Buy ME A BEER</string>
+       </dict>
+	</array>
+	<key>title</key>
+	<string>Games+Apps</string>
+</dict>
+</plist>

@@ -1,0 +1,11 @@
+Package: com.180.youtubenoads
+Name: YouTube no ads
+Author: stemgrade
+Description: read description
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Maintainer: stemgrade
+Architecture: iphoneos-arm
+Section: stem_grade
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.youtubenoads
+Version: 1.0
+Installed-Size: 556
