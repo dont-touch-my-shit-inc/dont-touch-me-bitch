@@ -5,14 +5,14 @@ Maintainer: stemgrade
 Installed-Size: 616
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./debfiles/addmusic_stemgrade.deb
-Size: 39208
-MD5sum: 492cc87280df061cbd31f272d7c9c9e7
-SHA1: d6b0263e4399aeb016226bfdd20de72d291f4a61
-SHA256: e4d1697cf94e71fe4fd220822b5a78680b468d3d0d96396667d34eaca707b0bf
+Size: 39204
+MD5sum: 09e0faecf52e92f4f44fcf5fd220bb6c
+SHA1: 9be3d7622d1459b6631edd19c6b2df165f3cc7b4
+SHA256: 7e28aa78fd52cc322c6fd83d59b0ffa162a4c5674e9f294516c8a7d69aa7fdd1
 Section: stem_grade
 Description: Premium
 Author: stemgrade
-Depiction: https://repo.cocotweaks.net/description.html?id=com.180.deficient
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.addmusic
 Name: Add Music
 
 Package: com.180.deficient
@@ -23,9 +23,9 @@ Installed-Size: 692
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13)
 Filename: ./debfiles/deficient_stemgrade.deb
 Size: 64996
-MD5sum: 72c6fd10e0c64272a8ae10c18753e2bf
-SHA1: e10e9fc62393da840d616438626577a34a83b62f
-SHA256: 19a976eda95699c389793dda5816ff746fb1129d8637ad5a4aa7b0b083172d80
+MD5sum: 30b881f065a6b6608dda9da4ab0b35ea
+SHA1: 6bd7d7ee5250a3f559113e0c337dcd72b53a2cb4
+SHA256: 82019c99e954a51611b3c1209a2902064b86f0466dc59e6ff1672651bdaf50c9
 Section: stem_grade
 Description: Tweaks For YouTube app
 Author: StemGrade <stemgrade76545@gmail.com>
@@ -40,9 +40,9 @@ Installed-Size: 772
 Depends: mobilesubstrate
 Filename: ./debfiles/facebook_stemgrade.deb
 Size: 402116
-MD5sum: bb7c3e7422c1ce30b9e9e428f6821cc0
-SHA1: 4aa3b0fc46f712f4505de62bb2458dfb83e3f561
-SHA256: 3c5afd4b4080f60fac6a6e417aac8b061dc4a81f5424d5d75545c6f655138d13
+MD5sum: 420bc838b880dcba143e68615fbb9d5f
+SHA1: 45cf64344e2a1172c6fb301e1a46c865d0718ecf
+SHA256: d2d2a603db1e922b8374e05db3f1d9dd506e9fb268b520cb43a1970c760f0805
 Section: stem_grade
 Priority: optional
 Description: Enable Dark Mode in Facebook if not enable go to Facebook setting click on darkmode turn on
@@ -58,9 +58,9 @@ Installed-Size: 656
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debfiles/insta_stemgrade.deb
 Size: 128272
-MD5sum: 9382c6ca74d110985c483c0f0fd870d2
-SHA1: c3fabeb43def538b9cac3387bf91eb6b0580276f
-SHA256: 1fbc61d7a814776473dba94b450e84213cb3e529c39e599aaab6cf396cb30d59
+MD5sum: 51e7cef5f565e3e9a0df36798e1456a5
+SHA1: 6db69ccfdf10337d469a28f7ef239eeded97bb17
+SHA256: 7addcf4fa01b2a524ff4b00d3e44b31987791b64713d7bbcf5db7881d9d79ed2
 Section: stem_grade
 Description: read description
 Author: stem grade
@@ -75,9 +75,9 @@ Installed-Size: 3484
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap
 Filename: ./debfiles/myiapcracker_stemgrade.deb
 Size: 626388
-MD5sum: 40a886ca66c5d0f8ef23ab480d1976c8
-SHA1: 9926a276cff37e28b3b676ad27e1b6288fca967d
-SHA256: 8e9ccb34b4972cf45b27af5ffd5ff59a066d9fc883092cf908ec7326e59d423a
+MD5sum: 9d7caeff2e3284b8589802b239bc9d1f
+SHA1: 26435c89f8f77d6584d540c6468924a491b0f15b
+SHA256: 0b8d8c2eae262557e869c36559d72309a8ed74c6790ec657782c262665c7f6b2
 Section: stem_grade
 Description: read description
 Author: stem grade
@@ -92,9 +92,9 @@ Installed-Size: 692
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./debfiles/norevoke_stemgrade.deb
 Size: 44804
-MD5sum: dc4850c13cd92b0aa9ba67a61fa1984e
-SHA1: 210b1d2afc69170b845e73b65a8314137ba63fac
-SHA256: a076bd28c327cada4181260e4a594ce4f6bdce165132cee731ece220f0ed0773
+MD5sum: 8923436674b7b9979f1ab88b4f0f90de
+SHA1: 8af7ce45165a6bced64bd11962be553a4be476d7
+SHA256: 9bc6a12ab96238d0a23b182b4031061b40dcae6350b3868794fa240e3a702c96
 Section: stem_grade
 Description: read description
 Author: stemgrade
@@ -109,9 +109,9 @@ Installed-Size: 616
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./debfiles/cercu_stemgrade.deb
 Size: 87100
-MD5sum: 39ec26e5207afd532d0ce39ffd2befe4
-SHA1: 04a877e42b0892d1d64b0f8cd0be4ba92d0b6fb4
-SHA256: 4e21f2f128fdd61731c87450901bded5f2e3b50ed112f93ba79c5cf5623b6fd3
+MD5sum: a356a468c7d1ef487a7fed6f6ffe161e
+SHA1: 74b1c098ba65df99c3e1b0266d4e132768ba7ac8
+SHA256: 74f83b374eac697fc00c29a500c0a6e4bdfdf8336560ab1902735f23df7d2e82
 Section: stem_grade
 Description: read Description
 Author: stem grade
@@ -126,9 +126,9 @@ Installed-Size: 556
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./debfiles/youtubenoads_stemgrade.deb
 Size: 58420
-MD5sum: 3f964243496cadeb34173de766f481dd
-SHA1: c3c8eae43b9aa051869f67cb6b340c81dd63c9f7
-SHA256: 814da7b0271697b84517fb707f52c23cd47307668305e40c21012dd790c30cb2
+MD5sum: fd3b1852e8da622dc090a45b8016dec0
+SHA1: c7b55bbe9a878095ce2646894b2bcee263cc71ef
+SHA256: 510f87be399ddd3aa1a120c0f80e77d9e94e31e9e839e54cdf6d796fa69bf003
 Section: stem_grade
 Description: read description
 Author: stemgrade
@@ -143,9 +143,9 @@ Installed-Size: 544
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap, me.alfhaily.cercube
 Filename: ./debfiles/ytuber_stemgrade.deb
 Size: 52236
-MD5sum: deca75cef64542607fecee1a4a5caa40
-SHA1: e2c3fd45377c3a9c8c7876db0c950b7c6960a98e
-SHA256: a3bb2c4f6ea5f5d439b6ca948e508870dcf5b5629b179e41014bd952a2f29c37
+MD5sum: be45a331a5cdd11a6ff52732826cb179
+SHA1: 5ffd9b4da61e847014ec43072133da68bc78e1af
+SHA256: 2a29fe49bcae730593a98d3336a42e22388ac2290fbcad69a13e636c558e8a1b
 Section: stem_grade
 Priority: optional
 Description: Read Description
@@ -163,9 +163,9 @@ Installed-Size: 716
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: ./debfiles/APD_roarijo89.deb
 Size: 321484
-MD5sum: cd98d4f7edcb92f7d1e349635460a98e
-SHA1: b53e2784210e18a86402b2fc61526600efb0ba53
-SHA256: 723662201acb48d645eec6589dca69023d170940a959ff3f1dd4aeb84209449d
+MD5sum: 845470f2c0d03bc1e55329b514dbad6e
+SHA1: b449cef18a31f64d6f443a16e7e4d6f5a9875e1e
+SHA256: 7a711cf9b355131dd6cc6f7c7dd59e0a0c1ff689e1f3ea4621b59c5a1531e7cc
 Section: _Tweaks_
 Description: read description
 Author: roarijo89
@@ -180,9 +180,9 @@ Installed-Size: 1468
 Depends: mobilesubstrate
 Filename: ./debfiles/best_roarijo89.deb
 Size: 891716
-MD5sum: caac2025fa871e5b058c3ebfa56f4546
-SHA1: 288cb12b5291fecd91e817716ff464772226cbf5
-SHA256: 620688f6df27424ea0e544a674aa87506181afca341011a018711d5f3b7380e1
+MD5sum: 2badeaca52ef61ad06ec39c1ef4914fc
+SHA1: 33d0adf886d00e608268803323214e24e3d052d6
+SHA256: 5cb88b4ecc6d0dae4edf52b55cc2621b96956a81d1c5c28bf97646f2c224f506
 Section: _Tweaks_
 Description: read Description
 Author: roarijo89
@@ -196,9 +196,9 @@ Maintainer: roarijo89
 Pre-Depends: zip, unzip, ldid, sed, grep, curl
 Filename: ./debfiles/IPAS_roarijo89.deb
 Size: 2088
-MD5sum: e8baf6376f24b8e45a465226101dfd36
-SHA1: e79027ca5e7236324c95bb0de3532db6e5c49f6d
-SHA256: ff43af6d9510b8f06576d319fa2ba7563cf4b22023e2375b70078442c3ced6f3
+MD5sum: 27e387fa576a7fd730ea5257bd164f7f
+SHA1: 9025635e6f9072cd0ae9e19fe911d7b1d2cb75b4
+SHA256: 527819da6bf818b25c4ff341a7d435cf16ffa856e27a84ec2019193ed593040d
 Section: _Tweaks_
 Description: read Description
 Author: roarijo89
@@ -213,9 +213,9 @@ Installed-Size: 1452
 Depends: mobilesubstrate
 Filename: ./debfiles/audio_roarijo89.deb
 Size: 891628
-MD5sum: c5ba6b29870cf8849ef0d26d76124117
-SHA1: 567b2b034e20286d6ccd5a158bc1a43c0555daaf
-SHA256: 46e62e97270f3b53dd6d8a5b25a15ee452f7f2747fcada18147ea14078d344ff
+MD5sum: 4eebde9a0d43b2ed59ff8970b844b333
+SHA1: c8199d9c36ce463d5e3c3c72cccebeee29d2b5c0
+SHA256: 7825ab595844e5d56408d5149ad422b5ea602b526409cbeae0f9951a5ba25595
 Section: _Tweaks_
 Description: read Description
 Author: roarijo89
@@ -230,9 +230,9 @@ Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debfiles/bundleid_roarijo89.deb
 Size: 8836
-MD5sum: 6115f48a4dd7c2b41305972fc92bf1f9
-SHA1: 5bf296cc9bf55ddcaff3c6d32bcfd29e8729c6dd
-SHA256: e1bba96d0b5835232fd6e1e2c18475dc183f72655ea9c23460c8b253c1637ce9
+MD5sum: a3717040ba71eaf4395bb40b8af19bc5
+SHA1: 1884334e7486b079c964944371664f0e5a6e3894
+SHA256: 21bdf61ad3107e2235571d1b56bbdaa19e7af3ced67b30141fb0a5ae03c5b19e
 Section: _Tweaks_
 Description: Press on a app to copy bundle id
 Author: roarijo89
@@ -247,9 +247,9 @@ Installed-Size: 172
 Depends: mobilesubstrate
 Filename: ./debfiles/cydia_roarijo89.deb
 Size: 1778316
-MD5sum: 24d3e00a5a45104e7780577e92fb9047
-SHA1: 3ff5fd9aae0546341dc992f7e8af0092cfeddfcb
-SHA256: 2547188a762af436a7676936b16601e82005e93536b012d21cb42f0fc8fbf16f
+MD5sum: 7f40c62e3c32a4c2460be3808bffb470
+SHA1: ff753e30d5829174bef55ef8608b68cefe334b47
+SHA256: 196a027fc90af10c96f78e4109b50f3bd2afacbdd08153c49f4aa24e683336af
 Section: _Tweaks_
 Description: read Description
 Author: roarijo89
@@ -263,9 +263,9 @@ Maintainer: roarijo89
 Depends: mobilesubstrate
 Filename: ./debfiles/filzano_roarijo89.deb
 Size: 71256
-MD5sum: e6ef9e40573a1055b8f13d467190c970
-SHA1: 78988532de4fb202d5f43cca9eb18e881d20f6d9
-SHA256: 90d4607b24812ac66c6ca795b52195d9ee2f57b3f3a11770dbab28824f4fbaeb
+MD5sum: 1bff8941bc2dd7b1778d1f12c2c3874a
+SHA1: e7f96cb62a1840e5eb902323455774e8a5c766e5
+SHA256: ed3053f68c290398d15e5a05d38a5341ead4ac2ac2dfa9f7bfed28c07db2d297
 Section: _Tweaks_
 Description: read description
 Author: roarijo89
@@ -278,9 +278,9 @@ Architecture: iphoneos-arm
 Maintainer: roarijo89
 Filename: ./debfiles/gta_roarijo89.deb
 Size: 2065400
-MD5sum: ceb9fe866a75fcb5d573a529cc45801d
-SHA1: fe969f15fc4aa46644aca2589c458dfb9505669c
-SHA256: 9874e960a3d52cc6dbf7ba223288fd99c0b67e4dc5c13da4c35de8cf6c24c32b
+MD5sum: 12289a8bb514e9094f46e56afa5f7f97
+SHA1: 363e9efeedda1ae15553fe8f65f86ceb2ac9f863
+SHA256: 4cb5053418039a4e2a71ac41e8a0b269c2b3722e02f4684d64103f8943f15d59
 Section: _Tweaks_
 Description: read Description
 Author: roarijo89
@@ -295,9 +295,9 @@ Installed-Size: 1468
 Depends: mobilesubstrate
 Filename: ./debfiles/hook_roarijo89.deb
 Size: 891448
-MD5sum: a307e2e06123edb036807df4d4628f87
-SHA1: 3c3b92648bf2ec00e1fc95c8aeeb341322f5a7b7
-SHA256: 102c723cd83c5e3cb871f219d3c035fdd5814492a3acecead42e458414261791
+MD5sum: f3e73faee00fb80f125439b3271d2ddc
+SHA1: de0e98c53c7c11e1803e1a944756d48ad372f16a
+SHA256: 5119275f50b0f759d75253bd3893a7e88ba87745a0d95c9b621123a9cc97a632
 Section: _Tweaks_
 Description: read Description
 Author: roarijo89
@@ -313,9 +313,9 @@ Origin: Coco Tweaks repo
 Maintainer: Coco Tweaks
 Filename: ./debfiles/icons.deb
 Size: 618512
-MD5sum: a18b36b0144d47da2cfcce31162747ed
-SHA1: 4089124fa77e23264e1e3a0d8c98632eee47d8f0
-SHA256: 22117c396cb27563184adb0229837a447dd7f6cf1a4ced49fa34f3bf81566966
+MD5sum: 501a45acdccce2939cd75dbd2d16ac92
+SHA1: ad06c83a6126081ab41d114cd40a38884ba37f16
+SHA256: e118969605959bf524db5c7c70430607eb811cb45881a2cede9cb9682492c057
 Section: System
 Priority: required
 Description: Official Coco Tweaks Repo Icons
@@ -330,9 +330,9 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debfiles/inapp_roarijo89.deb
 Size: 3652
-MD5sum: 1395a4f40b40850a2a8ce12df6094639
-SHA1: c57a6498722d36d9970132f772896ccb8b8ab1dc
-SHA256: 196467e88929f62d2636bcf863405b60fc0f90a9cb4dc6359f37257011f78f44
+MD5sum: a4c98d3efa58eaa9aedf0d1584919e70
+SHA1: b829861a1b63991bd5404066c146d83e7be1b0ac
+SHA256: f0912979d47200bc144fe917e7fa5e80a1f13d0ee48b42829553cb19ed917c33
 Section: _Tweaks_
 Description: read Description
 Author: roarijo89
@@ -347,9 +347,9 @@ Installed-Size: 1468
 Depends: mobilesubstrate
 Filename: ./debfiles/john_roarijo89.deb
 Size: 891852
-MD5sum: cf1ec35adedbd1723e52a61410ad0687
-SHA1: a239dbca3f6023a4482ca8e5c3fe50beebf546d8
-SHA256: 9b311f0eb6c95221d02562c46b9560dc29322b8d160fbf1f0d44543dc1abb1c0
+MD5sum: f12245660487f791fb2cb22a26add750
+SHA1: 5b590d713692dfcce95c30664c345cff8f10d0c2
+SHA256: e91472245483531c8da5a3bc66a32a01f1e6adc22af3d87dd2bf3e72e2db90e2
 Section: _Tweaks_
 Description: read Description
 Author: roarijo89
@@ -364,9 +364,9 @@ Installed-Size: 316
 Depends: mobilesubstrate
 Filename: ./debfiles/simple_roarijo89.deb
 Size: 3588
-MD5sum: a5f5006e49c58424af7d82409e5d3573
-SHA1: 957f915e71d4f0968047ebd76620a2f279a811fb
-SHA256: bf579a4df6090cbb594eb73b1bd93ed72ab69ce16af882f883f6d033bbf8dd59
+MD5sum: 3998da91727bdf052774e852f13ed671
+SHA1: deeec86b58e683ddc676ef8b62dd75fb3d24a860
+SHA256: 0146d4acce25a60a39a00fc8024546b533ad5520b7813d1799488750a29958e1
 Section: _Tweaks_
 Description: read Description
 Author: roarijo89
@@ -381,9 +381,9 @@ Installed-Size: 1468
 Depends: mobilesubstrate
 Filename: ./debfiles/snap_roarijo89.deb
 Size: 73244
-MD5sum: 690b11b64c69abd83502092f3a727ea6
-SHA1: 328bc0077a9cd18dc8cc4e332fa174c99f3838b8
-SHA256: 21735ca8c2ef1c271256c051f65bd26098f17c75b54b1cf275553bcc65a41779
+MD5sum: 74a35bbd9d9d876498f3bc14925e2407
+SHA1: 7ed615c40ef428d5fcfd5a3c6732db12a5aaf5f6
+SHA256: 9cec4eb4af7fa55a4d2899eb7ddc7debaaca0ee3ebdcd68b1e25a803d67907fd
 Section: _Tweaks_
 Description: read Description
 Author: roarijo89
@@ -398,9 +398,9 @@ Installed-Size: 1452
 Depends: mobilesubstrate
 Filename: ./debfiles/sound_roarijo89.deb
 Size: 891192
-MD5sum: 42910d36948241e47813dc07ee423724
-SHA1: 3577062f7f9e7a50790a33298e958767eb3a2b74
-SHA256: 6e2b17a78adf77e4e99db332c59a7627469bdbf6ac5c7ce03b3848a69ca7649d
+MD5sum: 913bd23dad1acf2e4c8d452605ae15a8
+SHA1: 492b3334563208ccf6ea101b21ae605b496573a2
+SHA256: f91f6c9793d7c83440cee218713c385d418dcc708e6f3d0e25e5bdd7a4ab2727
 Section: _Tweaks_
 Description: read Description
 Author: roarijo89
@@ -417,9 +417,9 @@ Installed-Size: 176
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Filename: ./debfiles/superGesture_roarijo89.deb
 Size: 33112
-MD5sum: 90191a2be20aaa46884367f6ef9c5290
-SHA1: 525a5cbbde70b1acb233685d045c3f19a51d5e84
-SHA256: 6df3ea5ce418da047c6736f3ecc7762c046765dcbb44542e0f6d49f12884389b
+MD5sum: 524844f5bdf94e5bdbe087e7f7203145
+SHA1: 9d2a6baab3226f5a56a04295cb5cac59a0cc51fc
+SHA256: db6a0223869d8c37716ae23160648b1d754832fd5a515e7db2af13b6b61fed24
 Section: _Tweaks_
 Description: Read description
 Author: roarijo89
@@ -434,9 +434,9 @@ Installed-Size: 1452
 Depends: mobilesubstrate
 Filename: ./debfiles/tiny_roarijo89.deb
 Size: 890988
-MD5sum: c3ea62914e4ac68bf6cdfdc8700a808b
-SHA1: ac3850360d31969bee8005cc709e0483f6a89438
-SHA256: 235fc7e1dce8984ffee3467d0a2a0df1241b7242aec103fc61e1ba0879fd1127
+MD5sum: bae0755b6cfac49aa14beda9740e5546
+SHA1: 23277f7d881d2a6850ffb5487612c7e2348f797c
+SHA256: d62336e90b12342d74f22b1345a1e9f6cd0a511402ec328d930bd3a7fca1d60d
 Section: _Tweaks_
 Description: read Description
 Author: roarijo89
@@ -451,9 +451,9 @@ Installed-Size: 5572
 Depends: mobilesubstrate
 Filename: ./debfiles/tools_roarijo89.deb
 Size: 5211184
-MD5sum: c745b831d6b9bf5ad0d03e346f67bcc2
-SHA1: e856d84c5b6b96c95885cf68e7ee804326cfbe3c
-SHA256: b48773c7bf60a0371e55c530edc0a77e659b6a61a88ce9182d240ff186927c55
+MD5sum: 3722a5617e4fd3de606d2939a1fe37e8
+SHA1: 3e71e971a8e427fd03cd16996402ebf2eef548f3
+SHA256: 49b7896ad085e379d5542ec211cdf3c5df14beb170269357d493958c9ed570c1
 Section: Tools🛠
 Description: read Description
 Author: roarijo89
@@ -467,9 +467,9 @@ Maintainer: roarijo89
 Installed-Size: 248
 Filename: ./debfiles/cco_roarijo89.deb
 Size: 26804
-MD5sum: 3915040fec6369493f36065624eb0877
-SHA1: ce5d9b0114dddccd601adf691f32514ac8b8f115
-SHA256: 9787fe00fdbf2b39c8e9a7c36534fe3e267bc522b817dea9f39d0dd4853741d2
+MD5sum: cec72c9182fb1a0cc0004f80796c62c3
+SHA1: 57bdcc6b1ae7978ee0a456da247c9eaba27c1597
+SHA256: aa14083bd6309975e408a46cfed35f8efa304083177159e1b3c5bc5bfae715be
 Section: _Tweaks_
 Description: Read Description
 Tag: role::hacker
