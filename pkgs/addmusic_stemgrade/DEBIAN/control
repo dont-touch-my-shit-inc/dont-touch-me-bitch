@@ -1,0 +1,11 @@
+Package: com.180.addmusic
+Name: Add Music
+Author: stemgrade
+Description: Premium
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Maintainer: stemgrade
+Architecture: iphoneos-arm
+Section: stem_grade
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.deficient
+Version: 1.0
+Installed-Size: 616

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>height</key>
+			<string>150</string>
+			<key>icon</key>
+			<string>banner.png</string>
+			<key>label</key>
+		<string></string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>pass</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>no.png</string>
+			<key>label</key>
+			<string>Loggin popup info</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Youtube hacks v1.1</string>
+		</dict>
+		<dict>
+                      <key>icon</key>
+			<string>YT.png</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>YT</string>
+			<key>label</key>
+			<string>Youtube Hacks                                   ➡️</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>YT</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>YT.png</string>
+			<key>label</key>
+			<string>Youtube hacks info</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>pou hacks v1.1</string>
+		</dict>
+		<dict>
+                      <key>icon</key>
+			<string>pou.png</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>pou</string>
+			<key>label</key>
+			<string>Pou Hacks                                           ➡️</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>pou</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>pou.png</string>
+			<key>label</key>
+			<string>pou hacks info</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>dudeperfect 2 v1.0</string>
+		</dict>
+		<dict>
+                      <key>icon</key>
+			<string>dude.png</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>dude</string>
+			<key>label</key>
+			<string>dudeperfect Hacks                          ➡️</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>dude</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>dude.png</string>
+			<key>label</key>
+			<string>dudeperfect 2 info</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>8 ball pool v1.1</string>
+		</dict>
+		<dict>
+                      <key>icon</key>
+			<string>8ball.png</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>pool</string>
+			<key>label</key>
+			<string>8 ball pool Hacks                             ➡️</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>ball</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>8ball.png</string>
+			<key>label</key>
+			<string>8 ball pool hack info</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>adGuard pro v1.0</string>
+		</dict>
+		<dict>
+                      <key>icon</key>
+			<string>ads.png</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>guard</string>
+			<key>label</key>
+			<string>AdguardPro                                         ➡️</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>ad</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>ads.png</string>
+			<key>label</key>
+			<string>AdguardPro info</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>SoundCloud v1.0</string>
+		</dict>
+		<dict>
+                      <key>icon</key>
+			<string>so.png</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>sound</string>
+			<key>label</key>
+			<string>SoundCloud Hack                              ➡️</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>so</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>so.png</string>
+			<key>label</key>
+			<string>SoundCloud info</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Psiphon v1.0</string>
+		</dict>
+		<dict>
+                      <key>icon</key>
+			<string>psi.png</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>psi</string>
+			<key>label</key>
+			<string>Psiphon Hack                                      ➡️</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>psi</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>psi.png</string>
+			<key>label</key>
+			<string>Psiphon info</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>yahoo email v1.0</string>
+		</dict>
+		<dict>
+                      <key>icon</key>
+			<string>yo.png</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>yo</string>
+			<key>label</key>
+			<string>Yahoo Hacks                                       ➡️</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>yaho</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>yo.png</string>
+			<key>label</key>
+			<string>Yahoo email info</string>
+</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>useful Tools v1.1</string>
+		</dict>
+		<dict>
+                      <key>icon</key>
+			<string>no.png</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>no</string>
+			<key>label</key>
+			<string>Useful Tools                                        ➡️</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>require is gonna be on by default</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.roarijo89.tool</string>
+			<key>icon</key>
+			<string>f.png</string>
+			<key>key</key>
+			<string>jailbreak</string>
+			<key>label</key>
+			<string>No jailbreak Detection for all the apps</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>jail</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>r.png</string>
+			<key>label</key>
+			<string>Jailbreak Detection info</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>                                         🚨links🚨</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>url</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>store.png</string>
+			<key>label</key>
+			<string>roarijo89 Tweaks (Website)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>flex</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>h.png</string>
+			<key>label</key>
+			<string>Simple flex 3 tap for info</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>mael</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>mael.png</string>
+			<key>label</key>
+			<string>Email for help or Ideas</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>repo</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>repo.png</string>
+			<key>label</key>
+			<string>Add my repo</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSTitleValueCell</string>
+			<key>label</key>
+			<string>                Tools 🛠  by roarijo89 Tweaks</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSTitleValueCell</string>
+			<key>label</key>
+			<string>                     Last updated 5/4/2020</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Tools  🛠</string>
+</dict>
+</plist>

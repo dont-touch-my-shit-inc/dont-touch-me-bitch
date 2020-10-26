@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+      <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Stop Revoke and don’t need to trust￼ the profile then you install any 3rd party apps￼</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.revoke</string>
+          <key>icon</key>
+			<string>p@2x.png</string>
+			<key>key</key>
+			<string>norevoke</string>
+			<key>label</key>
+			<string>S͛ᴛⷮoͦрⷬ Rͬeͤvͮoͦᴋⷦeͤ</string>
+		</dict>
+             <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>link</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>Paypal.png</string>
+			<key>label</key>
+			<string>S͛uͧрⷬрⷬoͦrͬᴛⷮ Mⷨeͤ</string>
+		</dict>
+       <dict>
+			<key>action</key>
+			<string>see</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>the@2x.png</string>
+			<key>label</key>
+			<string>IͥnFoͦ</string>
+       </dict>
+		<dict>
+			<key>action</key>
+			<string>links</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+                    <key>icon</key>
+			<string>revoker@2x.png</string>
+			<key>label</key>
+			<string>Rͬeͤрⷬoͦrͬᴛⷮiͥng Вⷡuͧgs͛</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>credits</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+          <key>icon</key>
+			<string>sg@2x.png</string>
+			<key>label</key>
+			<string>Cͨrͬeͤaͣᴛⷮeͤs͛</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+			<string>S͛ᴛⷮoͦрⷬ Rͬeͤvͮoͦᴋⷦeͤ 0.0.2￼￼￼</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>⟆Ƭ〇ᖘ ᖇᕮ⋎〇𐌊ᕮ</string>
+</dict>
+</plist>
