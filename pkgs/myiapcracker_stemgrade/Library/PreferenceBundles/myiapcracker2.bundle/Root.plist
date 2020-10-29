@@ -128,10 +128,10 @@
 			<key>footerAlignment</key>
 			<string>1</string>
 			<key>footerText</key>
-			<string>My iapcracker2 ver 1.4</string>
+			<string>My iapCracker 2 ver 1.5</string>
 		</dict>
 	</array>
 	<key>title</key>
-	<string>My iapcracker2</string>
+	<string>My iapCracker 2</string>
 </dict>
 </plist>

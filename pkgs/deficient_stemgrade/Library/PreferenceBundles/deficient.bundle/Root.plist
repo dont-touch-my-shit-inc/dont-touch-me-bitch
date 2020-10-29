@@ -617,6 +617,18 @@
 			<string>Hide Voice Search Button</string>
 		</dict>
 		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.180.deficient</string>
+			<key>key</key>
+			<string>NonotificationButton</string>
+			<key>label</key>
+			<string>Hide Notification Button</string>
+		</dict>
+		<dict>
         	<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
