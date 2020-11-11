@@ -1,0 +1,525 @@
+Package: com.180.addmusic
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: stemgrade
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debfiles/addmusic_stemgrade.deb
+Size: 77962
+MD5sum: 6187fb68e4fabb0bbe5c6a9744dff2ab
+SHA1: f098fa6c77eeea3482af76a9b9fa6b8e3e221816
+SHA256: 83477b4ca236abba218ef4e2f3b13eaf6195b2d05642f79da8b7f3d10a75c3e0
+Section: stem_grade
+Description: Premium
+Author: stemgrade
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.addmusic
+Name: Add Music
+
+Package: com.180.deficient
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: StemGrade <stemgrade76545@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13)
+Filename: ./debfiles/deficient_stemgrade.deb
+Size: 78602
+MD5sum: e418417b0c2ea87df7fbfa166801f021
+SHA1: 52b3192c04bf864cadc8d9b23b9178abaa3993a1
+SHA256: 0e44f2fb0de91a7eaa1fc235c4439849b3d7224195c1ffaa8358835683072da7
+Section: stem_grade
+Description: Tweaks For YouTube app
+Author: StemGrade <stemgrade76545@gmail.com>
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.deficient
+Name: Deficient
+
+Package: com.180.facebookdarkmode
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: StemGrade
+Installed-Size: 772
+Depends: mobilesubstrate
+Filename: ./debfiles/facebook_stemgrade.deb
+Size: 424310
+MD5sum: 2be7d1b27f0da572b50e94dc0a24545b
+SHA1: 954362ddad0e792f779d8c675fe9f68752a1bf60
+SHA256: 6d2dedbaf1c92cd27c6fad63d75694daf7cb83ecbe3d599d3b6514725431dd0e
+Section: stem_grade
+Priority: optional
+Description: Enable Dark Mode in Facebook if not enable go to Facebook setting click on darkmode turn on
+Author: StemGrade
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.facebook
+Name: Facebook darkmode
+
+Package: com.180.instagram
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Installed-Size: 656
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/insta_stemgrade.deb
+Size: 149018
+MD5sum: 9596d7e54bd818b082631c9fd9de4d41
+SHA1: d22249f4bfed0b2fe3505bc256cba7cac93c8107
+SHA256: 832c4955eac9f8086ff7f585f3bed5d3919fcb6fb6649cc817f8ffd91a938b07
+Section: stem_grade
+Description: read description
+Author: stem grade
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.instagram
+Name: instagram rocket
+
+Package: com.180.knockout
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: StemGrade <stemgrade76545@gmail.com>
+Installed-Size: 308
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13)
+Filename: ./debfiles/knockout_stemgrade.deb
+Size: 32588
+MD5sum: 8d962f9153ec1ed9dd9ceaa6bb2c404c
+SHA1: 34db4afab0764f861075c37bdfc9c5c43f6f1d42
+SHA256: 330322b4a33a5daa62878edbdcab44d37113c0034f504dbb5d1b8c09fd7d2a63
+Section: stem_grade
+Description: knockout free in app purchases
+Author: StemGrade <stemgrade76545@gmail.com>
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.knockout
+Name: knockout
+
+Package: com.180.musicer
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: StemGrade <stemgrade76545@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13)
+Filename: ./debfiles/musicer_stemgrade.deb
+Size: 44390
+MD5sum: 9c681161cabf13335096d613ef70dfa6
+SHA1: 7273cf421b0d1abf90450804f37e67420ec2ff3f
+SHA256: aec033fa001370a3e0647259e0fabd4565d55a14c9254c1ae04addc02271df0a
+Section: stem_grade
+Description: Tweaks For Youtube Music app
+Author: StemGrade <stemgrade76545@gmail.com>
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.musicer
+Name: Musicer
+
+Package: com.180.myiapcracker
+Version: 0.1.19
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap
+Filename: ./debfiles/myiapcracker_stemgrade.deb
+Size: 416418
+MD5sum: e761bcb4664520af436a7a945fec8296
+SHA1: 416cc1440fe243e8abd6c66d31ec9483240c9dd3
+SHA256: f72bc54bde5252991b80c930e70df56a63c8eea3f1c94f11efc301ab88962d82
+Section: stem_grade
+Description: read description
+Author: stem grade
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.myiapcracker
+Name: myiapcracker 2
+
+Package: com.180.revoke
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: stemgrade
+Installed-Size: 692
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debfiles/norevoke_stemgrade.deb
+Size: 96810
+MD5sum: e7a687d3504d7992ddd1d239f7d5aa1b
+SHA1: 2c24d7815e44832a31ea2dcd2b67a94bcee17ef8
+SHA256: 531a2c72bd8e1c4250c20eb9860e910dc9f36deeecef42508e73c2d0b8e27fc0
+Section: stem_grade
+Description: read description
+Author: stemgrade
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.norevoke
+Name: no revokes
+
+Package: com.180.twitter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: StemGrade <stemgrade76545@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13)
+Filename: ./debfiles/twitter_stemgrade.deb
+Size: 45052
+MD5sum: 31bcdc2ed33d7fa98e7afccd4bd8c235
+SHA1: e360fdf913714941a265ef8ec36155e328b4abab
+SHA256: fbef41b380ca6a8bc2d1c48abff421b46f1904d1749fdf7e1440dbdf0020728e
+Section: stem_grade
+Description: Tweaks For twitter app
+Author: StemGrade <stemgrade76545@gmail.com>
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.twitter
+Name: Twitee
+
+Package: com.180.youtube
+Version: 5.2.3
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debfiles/cercu_stemgrade.deb
+Size: 114502
+MD5sum: fe548420a95a6b55d8f5f656db1f1cc0
+SHA1: 1da5a54ef8d0181755e7b3767c3c8d64c23975aa
+SHA256: 56cfcec62416351ac7914d7053a8456d3d207cd0f8e8483d55c4836385b9de5e
+Section: stem_grade
+Description: read Description
+Author: stem grade
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.youtube
+Name: Cercube for youtube
+
+Package: com.180.youtubenoads
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: stemgrade
+Installed-Size: 556
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debfiles/youtubenoads_stemgrade.deb
+Size: 89856
+MD5sum: e13a875be65d82aee6aa371c2f420852
+SHA1: 73ac593fd08417cd2c2fdbf8ca998f394e873994
+SHA256: 49fb92d2b1d76411faeca0170d1366e474ab5c05fa4904a7402274710fd347dd
+Section: stem_grade
+Description: read description
+Author: stemgrade
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.youtubenoads
+Name: YouTube no ads
+
+Package: com.180.ytuber
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap, me.alfhaily.cercube
+Filename: ./debfiles/ytuber_stemgrade.deb
+Size: 85066
+MD5sum: 42a7c27724a32e67251081b2020f3464
+SHA1: 79bfda9b1348bc1d47fc2d237c49507e609ee1fd
+SHA256: 56bcf08520b207d42f8a462235385a2ed2e52d6b95d72cd6fac2641d7d33b29a
+Section: stem_grade
+Priority: optional
+Description: Read Description
+Author: stem grade
+Depiction: https://repo.cocotweaks.net/description.html?id=com.180.ytuber
+Dev: stem grade
+Name: YourTuber 4K 8K Video
+
+Package: com.roarijo89.APD
+Source: https://repo.cocotweaks.net
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Installed-Size: 716
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debfiles/APD_roarijo89.deb
+Size: 341758
+MD5sum: 60f4efd65419855b082315725d5fe130
+SHA1: 12107e6f9bc4e67a75b61953fd8a76d5ce43791e
+SHA256: 794dc155205c446c199d43a9de2b5791d41864baf92e4a318667533eeacb301b
+Section: _Tweaks_
+Description: read description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.APD
+Name: App editor
+
+Package: com.roarijo89.Best
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Installed-Size: 1468
+Depends: mobilesubstrate
+Filename: ./debfiles/best_roarijo89.deb
+Size: 909652
+MD5sum: 965e27b300a7727bd0f6e518559855ad
+SHA1: a55df7490cdba431095aedc74603c55689d3bc88
+SHA256: fe784109ade7ebb472776adc46840ed49df282351fc5b1dd4a97be7720bfb6cb
+Section: _Tweaks_
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.best
+Name: Best Fiends hack
+
+Package: com.roarijo89.IPAS
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Pre-Depends: zip, unzip, ldid, sed, grep, curl
+Filename: ./debfiles/IPAS_roarijo89.deb
+Size: 1948
+MD5sum: b17bafa71c77765627bcb0e2cd4ba0cf
+SHA1: 3b008f64dcf643d1ad6f299befd600fbcb1893f6
+SHA256: 6e579aaaaca4a01216745ff4aef985785eb215a4ddd4bc6ff53d1d3dfbeee9e7
+Section: _Tweaks_
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.IPAS
+Name: IPAS
+
+Package: com.roarijo89.audio
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Installed-Size: 1452
+Depends: mobilesubstrate
+Filename: ./debfiles/audio_roarijo89.deb
+Size: 908620
+MD5sum: 24905ac43d7e63a82dcb66ba30beab05
+SHA1: 3613ba19ac40af4d3109373b61b8d18e65bd09a4
+SHA256: f6e18068f5e3a40fd6d3b51ff26d8f46f9da9db6d35730455386f41f905cd1d9
+Section: _Tweaks_
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.audio
+Name: audiomack hack
+
+Package: com.roarijo89.bundleid
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debfiles/bundleid_roarijo89.deb
+Size: 13142
+MD5sum: db6b17c94a87c4bc39521ba32df7333f
+SHA1: 50c599857d2af81af5f30b7c4db2c7c59e854489
+SHA256: 134dd2d3a7b58a5127f67bc14c57a591a5220b53196611c69d7972c6f0bd3931
+Section: _Tweaks_
+Description: Press on a app to copy bundle id
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.bundleid
+Name: Bundle ID finder app version
+
+Package: com.roarijo89.cco
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Filename: ./debfiles/cco_roarijo89.deb
+Size: 47070
+MD5sum: 0af6444194a6ccff2162c455a5e6fdef
+SHA1: b702db6cc363df474e9fb5e47ee5441c10fa0540
+SHA256: 3b21f94a77aa0154de2f475246bec5a1a1109a73cfb470643743147f35a9704c
+Section: _Tweaks_
+Description: Read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.cco
+Name: cco
+
+Package: com.roarijo89.cydia
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Coco Tweaks <>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debfiles/cydia_roarijo89.deb
+Size: 2073380
+MD5sum: 4ce56beea39a8cecc5450c87b3bef6d2
+SHA1: bd401396b5ebb045c54260189ba90249971e589f
+SHA256: 2c1fe95a11f859026b8de6e491efbf463eeba0166be33b4e2a351c64b71adc0d
+Section: _Tweaks_
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.cydia
+Name: Cydia 2021 early version
+
+Package: com.roarijo89.filza
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Depends: mobilesubstrate
+Filename: ./debfiles/filzano_roarijo89.deb
+Size: 107932
+MD5sum: cecd2e40ecf4475498bf6f696d9de585
+SHA1: 56b60931083e923f80513fb0a9e3893fb2dcf325
+SHA256: 1704e10140eede8b063dc1ab3037f1ac6bdbf200a21e46401e9089d6cbb11a42
+Section: _Tweaks_
+Description: read description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.filza
+Name: Filza remove Activate Page popup
+
+Package: com.roarijo89.gta
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Filename: ./debfiles/gta_roarijo89.deb
+Size: 2083714
+MD5sum: 5e9714e328035852454d5f4e2a4d30b6
+SHA1: a4ec35d870c9c7cc4c782ff256af9b926c8b8923
+SHA256: f2d78152bdff8489d0bcd28b1509c75b8617a479a0ccdb4c56a2a789ba002225
+Section: _Tweaks_
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.gta
+Name: GTA San Andreas hack
+
+Package: com.roarijo89.hook
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Installed-Size: 1468
+Depends: mobilesubstrate
+Filename: ./debfiles/hook_roarijo89.deb
+Size: 909206
+MD5sum: 4f175ec110f702e6e0d1dcc8c07bc63f
+SHA1: b2193b7adbce51c5880737fc88521dbb3003d405
+SHA256: 7b909e40527d820a87224647bee0d8a78bf6698a24b5231630e8326c70291fbe
+Section: _Tweaks_
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.hook
+Name: HookedTV hack
+
+Package: com.roarijo89.icons
+Source: https://repo.cocotweaks.net
+Version: 1.4
+Architecture: iphoneos-arm
+Essential: yes
+Origin: Coco Tweaks repo
+Maintainer: Coco Tweaks
+Filename: ./debfiles/icons.deb
+Size: 1020886
+MD5sum: 8073c3e6980c7e61b2ab07110045e929
+SHA1: 23ff84ee56b04c1139e1b9a1b1fc67336ad937aa
+SHA256: 5ed17725cac8e63cca6ab8174e7a8777f80ddeb8c05d072a6e91222799f4c04a
+Section: System
+Priority: required
+Description: Official Coco Tweaks Repo Icons
+Author: roarijo89
+Name: Coco Tweaks Repo Icons
+
+Package: com.roarijo89.inapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debfiles/inapp_roarijo89.deb
+Size: 4742
+MD5sum: f963c4c5baeec6cb040b7911fe0d3ae2
+SHA1: 20019490e3327084989369b7a880d2120a850a6e
+SHA256: e04121519a542dd899d15b7af5a1c8f5989a36098c663b351cc4d0aaeae176c5
+Section: _Tweaks_
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.inapp
+Name: Local iAPStore any iOS
+
+Package: com.roarijo89.jo
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Installed-Size: 1468
+Depends: mobilesubstrate
+Filename: ./debfiles/john_roarijo89.deb
+Size: 909736
+MD5sum: 452d5ec3deb02ce3f981759ddf6404a1
+SHA1: 214cceeffc14d30f3feaf293bac4e71a48bd3ea0
+SHA256: 2b5f1b99a8fef0989efc8ff464e68492302b054faa4cc460f2052cbf19393052
+Section: _Tweaks_
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.jo
+Name: Jonny Trigger hack
+
+Package: com.roarijo89.simple
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./debfiles/simple_roarijo89.deb
+Size: 3620
+MD5sum: ac05887886b8b5e15fe708869feb1925
+SHA1: 78272516c75f4dfda4cde40cc3a02a6141089c25
+SHA256: 67ef7c6873418474fd656fad5dd181f218d0294d1a64de67a7f050452aebb20a
+Section: _Tweaks_
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.simple
+Name: simple flex 3
+
+Package: com.roarijo89.snap
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Coco Tweaks
+Installed-Size: 1468
+Depends: mobilesubstrate
+Filename: ./debfiles/snap_roarijo89.deb
+Size: 110800
+MD5sum: 326c42540f8fd36793a82f2f8cab10de
+SHA1: b4509c08e68257ba225d4d0468de6fae35bd7590
+SHA256: cc5f3d9a196b78f7035ff19adc7260ea0ad42a9368718e932e0441eafa1e92cd
+Section: _Tweaks_
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.snap
+Name: Snapchat hack
+
+Package: com.roarijo89.sound
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Coco Tweaks <roarijoa@gmail.com>
+Installed-Size: 1452
+Depends: mobilesubstrate
+Filename: ./debfiles/sound_roarijo89.deb
+Size: 908988
+MD5sum: 6eb6053b39c147aa365ac96b458d5f31
+SHA1: b35045f1b3aca33419c7c80ec0fa063a6147e807
+SHA256: a8f584e9ee30a12797104fe1885f6f1da1a26526330678c59ad6596b3b545a26
+Section: _Tweaks_
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.sound
+Name: soundcloud hack
+
+Package: com.roarijo89.superGesture
+Source: https://repo.cocotweaks.net
+Version: 1.1
+Architecture: iphoneos-arm
+Origin: Coco Tweaks repo
+Maintainer: roarijo89
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debfiles/superGesture_roarijo89.deb
+Size: 37292
+MD5sum: 22b7d72aaa24bc6d5a5e6cb1987a17fc
+SHA1: 50e3881f165581460b2b447d4fd6de6d8f9d07cd
+SHA256: 0eb0dec569f74d2aecfc46a836ba40c6f6af433f87de2e82ad4643e5a99ad82a
+Section: _Tweaks_
+Description: Read description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.superGesture
+Name: Super Gesture
+
+Package: com.roarijo89.tiny
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Coco Tweaks
+Installed-Size: 1452
+Depends: mobilesubstrate
+Filename: ./debfiles/tiny_roarijo89.deb
+Size: 908618
+MD5sum: 34a5ac17a5b43e61484e2e2fef94ff2c
+SHA1: a35b9bddb059eed3a7471c9f9368b7bf38642b82
+SHA256: 428f4802ed805f05aaeda25102432597d77ea1526c9ed0bbca2d139b5fc0a736
+Section: _Tweaks_
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.tiny
+Name: Tiny Towers hack
+
+Package: com.roarijo89.tools
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Installed-Size: 5572
+Depends: mobilesubstrate
+Filename: ./debfiles/tools_roarijo89.deb
+Size: 5267312
+MD5sum: 428389a4d292b21598f4ccb3d76e98c7
+SHA1: 8f825c3147e60bd8182942159a12e890f88fe87b
+SHA256: 21c971118d319840f32aec8a25d2d6642b4f24d35363bbab58ec967e692bb98d
+Section: Tools🛠
+Description: read Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.tools
+Name: Tools
+
