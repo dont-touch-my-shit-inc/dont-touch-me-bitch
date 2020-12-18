@@ -71,6 +71,14 @@ function loadPackageInfo() {
 				$("#changelog").html(decodeResp.changelog);
 				$("#changelog_").show();
 			}
+			if(decodeResp.version_web) {
+				$("#version_web").html(decodeResp.version_web);
+				$("#version_web_").show();
+			}
+			if(decodeResp.date_web) {
+				$("#date_web").html(decodeResp.date_web);
+				$("#date_web_").show();
+			}
 			if(decodeResp.screenshot) {
 				$("#screenshot").html(decodeResp.screenshot);
 				$("#screenshot_").show();
