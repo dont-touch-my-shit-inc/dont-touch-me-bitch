@@ -47,6 +47,10 @@ function loadPackageInfo() {
 				$("#name").html(decodeResp.name);
 				$("#name").show();
 			}
+			if(decodeResp.name) {
+				$("#name").html(decodeResp.name);
+				$("#name_").show();
+			}
 			if(decodeResp.desc_short) {
 				$("#desc_short").html(decodeResp.desc_short);
 				$("#desc_short_").show();
@@ -78,6 +82,10 @@ function loadPackageInfo() {
 			if(decodeResp.date_web) {
 				$("#date_web").html(decodeResp.date_web);
 				$("#date_web_").show();
+			}
+			if(decodeResp.developer_name_web) {
+				$("#developer_name_web").html(decodeResp.developer_name_web);
+				$("#developer_name_web_").show();
 			}
 			if(decodeResp.screenshot) {
 				$("#screenshot").html(decodeResp.screenshot);

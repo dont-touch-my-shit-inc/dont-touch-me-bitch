@@ -54,47 +54,38 @@
     </div>
 
     
-<div class="row">
-<div class="col-12 px-0 px-sm-3 d-flex flex-column">
-<ul class="nav nav-tabs border-color-smooth justify-content-around" id="depictionNav" role="tablist">
-<li class="nav-item">
-<a class="nav-link active nav-link-dominant-blue" id="detail-tab" data-toggle="tab" href="#detail" role="tab" aria-controls="detail" aria-selected="true">Detail</a>
-</li>
-<li class="nav-item">
-<a class="nav-link nav-link-dominant-blue" id="changelog-tab" data-toggle="tab" href="#changelog" role="tab" aria-controls="changelog" aria-selected="false">Changelog</a>
-</li>
-</ul>
-<div class="tab-content" id="depictionNavContent">
-<div class="tab-pane show active color-strong" id="detail" role="tabpanel" aria-labelledby="detail-tab">
-<ul>
-<span id="desc_long_" hidden><h2>Description</h2><ul><li><p id="desc_long"></p></li></ul></span>
-</ul>
-<br>
-<br>
-    <!-- photos --> <span id="screenshot_" hidden><ul><li><p id="screenshot"></p></li></ul></span>
-<div class="description markdown">
-</div>
-</div>
-<div style="color: white;" class="tab-pane" id="changelog" role="tabpanel" aria-labelledby="changelog-tab">        
-    </div>
-    </div>
-</div>
-</div>
-</div>
-</div>
+    <div class="row">
+        <div class="col-12 px-0 px-sm-3 d-flex flex-column">
+            <ul class="nav nav-tabs border-color-smooth justify-content-around" id="depictionNav" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active nav-link-dominant-blue" id="detail-tab" data-toggle="tab" href="#detail" role="tab" aria-controls="detail" aria-selected="true">Detail</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-dominant-blue" id="changelog-tab" data-toggle="tab" href="#changelog" role="tab" aria-controls="changelog" aria-selected="false">Changelog</a>
+                </li>
+            </ul>
+            
+                 <div class="tab-content" id="depictionNavContent">
+                <div class="tab-pane show active color-strong" id="detail" role="tabpanel" aria-labelledby="detail-tab">
+                    <ul>
+                        <span id="desc_long_" hidden><h2>Description</h2><ul><li><p id="desc_long"></p></li></ul></span>
+                    </ul>
+                    <br>
+                    <br>
+    <!-- photos --> <span id="screenshot_" hidden><h2>Screenshot's</h2><ul><li><p id="screenshot"></p></li></ul></span>
 <section id="informations" class="background-color-smooth row mt-4">
-<div class="container">
-<h3 class="color-strong pb-3">Information</h3>
-<div class="row">
-<div class="col-12 col-sm-12 col-md-6 col-lg-4">
-<ul class="list-group background-color-smooth border-0">
-<li class="list-group-item d-flex justify-content-between align-items-center">
+    <div class="container">
+ <!-- Tweak info -->   <h3 class="color-strong pb-3">Information</h3>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <ul class="list-group background-color-smooth border-0">
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
                         <span class="color-subtile">Version</span>
                         <span class="color-strong"  id="version_web_" hidden><ul><li><p id="version_web"></p></li></ul></span>
                     </li>
                     <li class="list-group-item d-flex justify-content-between align-items-center">
                         <span class="color-subtile">Updated</span>
-                        <span class="color-strong"  id="date_web_" hidden><ul><li><p id="date_web"></p></li></ul></span>
+                        <span class="color-strong"  id="date_web_" hidden><ul><li><p id="date_web"></p></li></ul></span> <button onclick="pop()">read changelogs</a>
                     </li>
                     <li class="list-group-item d-flex justify-content-between align-items-center">
                         <span class="color-subtile">Compatitle</span>
@@ -234,7 +225,7 @@
         <a target="_open" class="access alert lilpopup text-center text-white alert-dismissible fade show" role="alert" style="position: fixed; bottom: 1rem; min-width: 270px; margin-left: -135px; left:50%;">
             <br><strong><center><b>Repos updates</b></center></strong>
             <img src="https://ai.cocotweaks.net/coc.png" class="svg-42">|<img src="https://ai.cocotweaks.net/cum.png" class="svg-42">
-            <div class="pvw-title"><b>Recenly added: </b></div></strong>
+                <div class="pvw-title"><b>Recenly added: </b></div></strong>
             <div class="dev-title"><b>Developer: </b></div></strong>
             <div class="sec-title"><b>Section: </b></div></strong>
             <div class="time-title"><b>Added Date: </b></div></strong>
@@ -259,18 +250,18 @@
             <script src="https://repo.cocotweaks.net/jquery-3.2.1.min.js"></script>
             <script src="description2.js?_=e"></script>
             <script src="no.js"></script>  
-<script>
-firebase.auth().onAuthStateChanged(function (user) {
-if (user) {
-document.getElementById('logout').onclick = function () {
-if (confirm('Logout ?')) {
-firebase.auth().signOut();
-}
- };
-} else {
-window.location.href = '../..//login.html';
-}
-});
-</script>
+        <script>
+                firebase.auth().onAuthStateChanged(function (user) {
+                        if (user) {
+                            document.getElementById('logout').onclick = function () {
+                                if (confirm('Logout ?')) {
+                                    firebase.auth().signOut();
+                                }
+                            };
+                        } else {
+                            window.location.href = '../..//login.html';
+                        }
+                    });
+                </script>
 </body>
 </html>
