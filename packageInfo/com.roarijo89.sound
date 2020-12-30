@@ -2,10 +2,13 @@
 	"name": "SoundCloud",
 	"desc_long": "🚨developer menu and no ads use Tools 🛠 for no ads🚨<p><p><p>",
 	"compatitle": "iOS 11 12 13 14",
+	"version_web": "1.3",
+	"date_web": "10/25/2020",
+	"developer_name_web": "roarijo89",
 	"changelog": "<strong>1.0</strong><br>developer menu<br>needs Tools 🛠<br>",
 	"screenshot": null,
 	"open": true,
 
-"warning": "Login info <br>Username:Coco <br> Password:cocox",
+"warning": "Make sure to install Tools 🛠",
 
 }
