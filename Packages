@@ -1,0 +1,271 @@
+Package: com.roarijo89.APD
+Source: https://repo.cocotweaks.net
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debfiles/APD_roarijo89.deb
+Size: 321472
+MD5sum: 5ad7683bb05dd60abf25f763706712e1
+SHA1: 887779915c75c4364d617fb5296ec9b748797643
+SHA256: 55e4ce75363987c1fb88517e3727c35e79d16269e43f0f996a9fd9d5abfb9990
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.APD
+Name: App editor
+
+Package: com.roarijo89.IPAS
+Source: https://repo.cocotweaks.net
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Pre-Depends: zip, unzip, ldid, sed, grep, curl
+Filename: ./debfiles/IPAS_roarijo89.deb
+Size: 2108
+MD5sum: 30843c9a307d734a2eb4d1542265a1d3
+SHA1: ebff8c3f1640b56ea7f98bea00eede367e59ee88
+SHA256: bfeea2ccb7a39f58850879347e1ecfd2886b23523b04f8c742097bbe0f260826
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.IPAS
+Name: IPAS
+
+Package: com.roarijo89.audio
+Source: https://repo.cocotweaks.net
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Depends: mobilesubstrate
+Filename: ./debfiles/audio_roarijo89.deb
+Size: 891616
+MD5sum: 58a9c9e160ca8be1a2033c615035dab9
+SHA1: e68e51413a45964a2d02f6c0636df6a48d577b36
+SHA256: ec12431101be93a34498cb1a38ee819cea59da4c67bc2da00de2484133365f62
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.audio
+Name: audiomack hack
+
+Package: com.roarijo89.bundleid
+Source: https://repo.cocotweaks.net
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Depends: mobilesubstrate
+Filename: ./debfiles/bundleid_roarijo89.deb
+Size: 8812
+MD5sum: 577ff911cee3b0de32d6bd4ca3246685
+SHA1: 69296be57c209dd70cae39734dd2a3c1c4f5bfbc
+SHA256: 4457329c0fd262e4825baf443b3ed1550287150b6b2d79b2a7962c164fe33cff
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.bundleid
+Name: Bundle ID finder app version
+
+Package: com.roarijo89.cco
+Source: https://repo.cocotweaks.net
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Filename: ./debfiles/cco_roarijo89.deb
+Size: 26304
+MD5sum: 0ff1b825c53220d61d8a106e2260a636
+SHA1: 27d7e2b417ccb2ab09d66dbc42dd0849364f4e3c
+SHA256: d32ea29800b62629713ede755bd45ea6102c6d4dce1409cb0bcd139145c07bf5
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.cco
+Name: cco
+
+Package: com.roarijo89.cydia
+Source: https://repo.cocotweaks.net
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Coco Tweaks <>
+Depends: mobilesubstrate
+Filename: ./debfiles/cydia_roarijo89.deb
+Size: 1778308
+MD5sum: 8df0b8e7923b83e4b5be4d2e33dccaa9
+SHA1: 499688394b944137e0398c021ee541cf76fa69f8
+SHA256: de81005c297ba50529f00fd13582d538cdd34927876ac918236c2e7aae7d5b68
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.cydia
+Name: Cydia 2021 early version
+
+Package: com.roarijo89.filza
+Source: https://repo.cocotweaks.net
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Depends: mobilesubstrate
+Filename: ./debfiles/filzano_roarijo89.deb
+Size: 71264
+MD5sum: 5dfc7718e41de858fa42c4c0c52d9225
+SHA1: 3e0345446449e9b8f3c823612a939656ea6b59ec
+SHA256: 49bcbea36997ff9cd593e26a9f892c6c14b18562c9bcc8b0552b5f106d4a9aa6
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.filza
+Name: Filza remove Activate Page popup
+
+Package: com.roarijo89.gta
+Source: https://repo.cocotweaks.net
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Filename: ./debfiles/gta_roarijo89.deb
+Size: 2065408
+MD5sum: c38ec9586ef8933e6764830ba277a52a
+SHA1: e5b21128f31f13821f9183e3ee73fdde589ecac1
+SHA256: f0520f888b8f30c94d60ae62383b50e3c66d4dbd5c9b6dfb3a943aaea41ecad7
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.gta
+Name: GTA San Andreas hack
+
+Package: com.roarijo89.hook
+Source: https://repo.cocotweaks.net
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Depends: mobilesubstrate
+Filename: ./debfiles/hook_roarijo89.deb
+Size: 891436
+MD5sum: 556b2cf5b341f05838702cf33dc5d1b8
+SHA1: bc7ed65d91d21b26c42da528d2d43f501bc875e3
+SHA256: bd5c5a20ed7b45c348b16cdff6e3a801c243d572be5436e80184e616097c6213
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.hook
+Name: HookedTV hack
+
+Package: com.roarijo89.icons
+Source: https://repo.cocotweaks.net
+Version: 1.4
+Architecture: iphoneos-arm
+Essential: yes
+Origin: Coco Tweaks repo
+Maintainer: Coco Tweaks
+Filename: ./debfiles/icons.deb
+Size: 618540
+MD5sum: 5ce4db3b6ad6f62141d7a7a121e4caa8
+SHA1: d4f876dc8a89ab5ce8a21e147a2e152686683377
+SHA256: ecd7c078c98c0b49fdc74c7f0b46e20b184a49c828d9f96795d25943093ed1e6
+Section: System
+Priority: required
+Description: Official Community Repo Icons
+Author: roarijo89
+Name: Community Repo Icons
+
+Package: com.roarijo89.inapp
+Source: https://repo.cocotweaks.net
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Depends: mobilesubstrate
+Filename: ./debfiles/inapp_roarijo89.deb
+Size: 3648
+MD5sum: 6d210744d0dbe2fe51e7ce0321075be7
+SHA1: fe4b6c56324bd4e772d3843f14aed7c739b5ef63
+SHA256: aff9fd1c574cdee506f816b3960004cec640ca850152b6e9bbff98e16b8ce444
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.inapp
+Name: Local iAPStore any iOS
+
+Package: com.roarijo89.simple
+Source: https://repo.cocotweaks.net
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Depends: mobilesubstrate
+Filename: ./debfiles/simple_roarijo89.deb
+Size: 3576
+MD5sum: a7c2ba7d3f20ed08740790f426392169
+SHA1: 1d84c3fcc10c2f77408efc2f911fe502db4515a8
+SHA256: 3d97531ffad457c8b173bbe35f040769c320ef719378b4fb08bc08fd47c3c271
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.simple
+Name: simple flex 3
+
+Package: com.roarijo89.snap
+Source: https://repo.cocotweaks.net
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Coco Tweaks
+Depends: mobilesubstrate
+Filename: ./debfiles/snap_roarijo89.deb
+Size: 73236
+MD5sum: 6f8b06468b7f378b8a2aef3c3f39905a
+SHA1: 36a56c8a1862b06d7b5bfcbb27a93af18fc654ef
+SHA256: 3f1f32fe76f9a66491387b907411cf566f123ff000498a125549a965154527f6
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.snap
+Name: Snapchat hack
+
+Package: com.roarijo89.sound
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Depends: mobilesubstrate
+Filename: ./debfiles/sound_roarijo89.deb
+Size: 891160
+MD5sum: 6ebaa46e055528bc102db5e892449fd6
+SHA1: 7f09c4c0304521bbfc27eb92a576af1c7799239c
+SHA256: 0b3e300f98e94e85fef97da2b9367b091d03dd4dca37a8da5942fca698876ad6
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.sound
+Name: soundcloud hack
+
+Package: com.roarijo89.superGesture
+Source: https://repo.cocotweaks.net
+Version: 1.1
+Architecture: iphoneos-arm
+Origin: Coco Tweaks repo
+Maintainer: roarijo89
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debfiles/superGesture_roarijo89.deb
+Size: 33092
+MD5sum: 52bbc98f22af16aa55eac60bda7d776f
+SHA1: c832f09ff01475c9c1cec355163394609615940d
+SHA256: f09207f8eeefc097e5dfe8c8c260ddd19d4a7cd7c5db2985bbe639c091dc3978
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.superGesture
+Name: Super Gesture
+
+Package: com.roarijo89.tools
+Source: https://repo.cocotweaks.net
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: roarijo89
+Depends: mobilesubstrate
+Filename: ./debfiles/tools_roarijo89.deb
+Size: 5211184
+MD5sum: a5f3a9bc69e923517fbc19865756fba6
+SHA1: 65b5c66f6568ea830b8203059338ebd92dc95e4f
+SHA256: a76172431ed01739c6f846638aa22fc85fe4f60a2eeda42c76bdebff7e68d641
+Section: roarijo89
+Description: Login To See Description
+Author: roarijo89
+Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.tools
+Name: Tools
+
