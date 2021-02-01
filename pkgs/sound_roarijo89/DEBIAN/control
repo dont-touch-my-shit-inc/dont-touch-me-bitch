@@ -2,10 +2,9 @@ Package: com.roarijo89.sound
 Name: soundcloud hack
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: read Description
-Maintainer: Coco Tweaks <roarijoa@gmail.com>
+Description: Login To See Description
+Maintainer: roarijo89
 Author: roarijo89
-Section: _Tweaks_
+Section: roarijo89
 Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.sound 
 Version: 1.1
-Installed-Size: 1452

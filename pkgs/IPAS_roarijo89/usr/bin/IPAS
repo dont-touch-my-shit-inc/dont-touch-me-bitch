@@ -23,7 +23,7 @@ scr=$(basename $0)
 		echo "|To use: [IPAS (name.ipa]"
 		echo "|Update Before using: [-p]"
 		echo "|please update before using❗️)"
-		echo "|roarijo89 Tweaks © 2020"
+		echo "|Coco Tweaks Tweaks © 2021"
 echo
 echo    ⚠️Warning⚠️
 		echo "|signing (May take a while depending on size of the app be patient"
@@ -97,4 +97,4 @@ rm -r /tmp/roarijo89IPA/
 rm -r /Payload
 echo "✅ Output: $patch"
 
-echo "Ⓜ️Signed by roarijo89 TweaksⓂ️"
+echo "Ⓜ️Signed by Coco TweaksⓂ️"

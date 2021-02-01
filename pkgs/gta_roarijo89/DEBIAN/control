@@ -1,9 +1,10 @@
 Package: com.roarijo89.gta
-Section: _Tweaks_
+Section: roarijo89
 Maintainer: roarijo89
 Author: roarijo89
 Architecture: iphoneos-arm
 Version: 1.1
-Description: read Description 
+Description: Login To See Description 
 Name: GTA San Andreas hack
+Source: https://repo.cocotweaks.net
 Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.gta

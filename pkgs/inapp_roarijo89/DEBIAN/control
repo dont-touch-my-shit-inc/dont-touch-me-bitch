@@ -2,10 +2,10 @@ Package: com.roarijo89.inapp
 Name: Local iAPStore any iOS
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: read Description
+Description: Login To See Description
 Maintainer: roarijo89
 Author: roarijo89
-Section: _Tweaks_
+Section: roarijo89
+Source: https://repo.cocotweaks.net
 Depiction: https://repo.cocotweaks.net/description.html?id=com.roarijo89.inapp
 Version: 1.0
-Installed-Size: 120

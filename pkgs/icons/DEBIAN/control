@@ -1,8 +1,8 @@
 Package: com.roarijo89.icons
 Version: 1.4
 Architecture: iphoneos-arm
-Name: Coco Tweaks Repo Icons
-Description: Official Coco Tweaks Repo Icons
+Name: Community Repo Icons
+Description: Official Community Repo Icons
 Priority: required
 Essential: yes
 Maintainer: Coco Tweaks
