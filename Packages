@@ -6,9 +6,9 @@ Maintainer: roarijo89
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: ./debfiles/APD_roarijo89.deb
 Size: 321472
-MD5sum: b9149daec206364f0ea0e10b5e93be0e
-SHA1: 3a1b1cc69446ce507d85e7d1684b9eed2ab2c7a0
-SHA256: 31aee51143b133c2a8aa076896aef5a962b873dec484698ef866a86a3bfcc82e
+MD5sum: b4ce8461ab146fc909c650b1ca8ac9fd
+SHA1: 33add52aa826071a109f417211c5990756c82fcf
+SHA256: e768877d3965dddca8482af3d4a620af28a84b9d82a8b16f4125c6af2455826e
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -23,9 +23,9 @@ Maintainer: roarijo89
 Pre-Depends: zip, unzip, ldid, sed, grep, curl
 Filename: ./debfiles/IPAS_roarijo89.deb
 Size: 2108
-MD5sum: 9909d5b05e0c5c7f6779474d34a257fc
-SHA1: c7d2743a2dd00176e1d8c47af6a17ee7b78c7bc7
-SHA256: 097891e827d0112f6255a1d45a5130ddc76ccbd261fc6558d41690bd5ca756a8
+MD5sum: 0a9eb166a8035254d5a9ccde70d642ff
+SHA1: 29752c1915e854fa712bc50a8cb1bf87861069cb
+SHA256: 4c195c1e86e10b12fb1bdc7997b822de0c351bdb61a16f68a625ef0f724f15b8
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -39,10 +39,10 @@ Architecture: iphoneos-arm
 Maintainer: roarijo89
 Depends: mobilesubstrate
 Filename: ./debfiles/audio_roarijo89.deb
-Size: 165612
-MD5sum: c0381547b4fa9be2f4fb7341015a6e02
-SHA1: d79a9b1f78e38538b1d3ef83b135f2a62c179e62
-SHA256: d954db60886c9665489e89c4e536c0dbd1515a153ca5d3e9c6995d3213e0d61e
+Size: 165240
+MD5sum: 6e6762259d63642316ee3ca953c55abd
+SHA1: f4ca8faf1032915f662804dbb8ff63a5e4c08679
+SHA256: 5b9205f8d614dbdbed0b92ea1199608a93b21d797e79b83d54fe35adfbfb47a5
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -57,9 +57,9 @@ Maintainer: roarijo89
 Depends: mobilesubstrate
 Filename: ./debfiles/bundleid_roarijo89.deb
 Size: 8812
-MD5sum: 8ef56b09b3dbcd92b86cb8bea5c70c92
-SHA1: 82af4111fe76427ece1d0c811ff8350c4ce44ffe
-SHA256: c8d0987ce7024a94c0fb9afc628e083f649cf64d52a67fc9bd25207a0b7cb42c
+MD5sum: 4d8af07545bb598adeaef57885f9e406
+SHA1: 128a0a8195dcc5c19f1839bafd45d16e7e159631
+SHA256: 860987e83463aa6c3a11b30a664228d76b735fd9667638b8075a58cd219c0606
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -73,9 +73,9 @@ Architecture: iphoneos-arm
 Maintainer: roarijo89
 Filename: ./debfiles/cco_roarijo89.deb
 Size: 26304
-MD5sum: 6b4fae8fcb2399912d25f8699ae06669
-SHA1: 2888d5bdd0c9e93a646e1bcc14273852c5458694
-SHA256: 1a755cd248ec24d231443811b5c2dde0a073cf9a2fcb4b3abbd434849aacde79
+MD5sum: cea6717ab836187ad620dd8e6a19e855
+SHA1: 1438cdffdcfe1017d2d8f99793934cae63f0704a
+SHA256: 1b3949b1de75c7fac5cdeb0017fd3c22b62412c93e1f9249cd6db30f4fe7e690
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -90,9 +90,9 @@ Maintainer: Coco Tweaks <>
 Depends: mobilesubstrate
 Filename: ./debfiles/cydia_roarijo89.deb
 Size: 1778308
-MD5sum: d3b4826411e5fe29f27d436cdc97223b
-SHA1: 58db5a628af2b10d928a169e09f83468bda36ca5
-SHA256: a41920492304c6ea9a32aa69a7a8d0dfdbe473365bcc09108c919a45b2fd3e29
+MD5sum: 9bfb996b8a4a35b3a49dd60e159893ea
+SHA1: 5d3e06fb93b974c0b8098a9c8c3275e1952f57f2
+SHA256: af00704060ac88d8b613fe79365a22abe55ceef46f559c0e3f4aab6a88df3dca
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -107,9 +107,9 @@ Maintainer: roarijo89
 Depends: mobilesubstrate
 Filename: ./debfiles/filzano_roarijo89.deb
 Size: 71264
-MD5sum: 744ebe38401f0dadaf66485b086d16c7
-SHA1: 835d8435eda344975839560061fddfa5b71d3696
-SHA256: 56f54634fdb2f3f2d1a696258e206efc45f0a53d52f25c1cc0d5ed712928c545
+MD5sum: 9418db7773e4105ba78add55c2959fed
+SHA1: 7cf0c31e42d78770d156e783af16f4bacc76c8fb
+SHA256: 2d451c4fef52c77c48a51b251e8f9533421c12b34dd165a4655eb98af7a9c9dc
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -123,9 +123,9 @@ Architecture: iphoneos-arm
 Maintainer: roarijo89
 Filename: ./debfiles/gta_roarijo89.deb
 Size: 2065408
-MD5sum: 3c7c619aed618a1e5f193abd91215628
-SHA1: 67b8b405a19e5d6641f298579609832dd8e6192f
-SHA256: 2e7895093a6d7b0fff85a41b6f78bd5fadf5a4ff01f90e7c3509bae912c34075
+MD5sum: 4603d2ce32aba473687a22603e23c787
+SHA1: 250b276c3041edebc5bdd12c2ff8577f32297657
+SHA256: 725ebcf62663362917f3954b61b62be6533ed0c6dcacf55fea28f7f3b3861a71
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -140,9 +140,9 @@ Maintainer: roarijo89
 Depends: mobilesubstrate
 Filename: ./debfiles/hook_roarijo89.deb
 Size: 891436
-MD5sum: 3ce31a1d3bee7f2e391c57f2fa1b9ee0
-SHA1: 0b5783e4f3afa0cecb6de80ef423bb04c8dd444e
-SHA256: 92ea1316994899f6029ff131405b6b091736371808872ecbf16fd11dcd97a795
+MD5sum: f8545b5d46644bccaa5e5d97998c7a14
+SHA1: 5f566ffb2b2b752a46003bb901a1f5dd1e117600
+SHA256: ab566614788eb9846bc4fd4f3cf57fda44c51542d8b0be546dded327e03d34b8
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -157,10 +157,10 @@ Essential: yes
 Origin: Coco Tweaks repo
 Maintainer: Coco Tweaks
 Filename: ./debfiles/icons.deb
-Size: 618540
-MD5sum: 72928139ce2af3d6a7c70d47306f7ca7
-SHA1: 34cd23ea7d80828883ca8f8c3b61522af0d2b447
-SHA256: 5a660b771589ee1eb9f10b8a3d30ae3dd5f69e8db919cd08a512b4a755246ee0
+Size: 618108
+MD5sum: c181cb6d660b78412cce876488a86652
+SHA1: 4e01671750f54d805391f444176192508ca76c31
+SHA256: 95a99b4353d6112ef40cec71b5050abe06a7481773eda570811350d6a84b4ebf
 Section: System
 Priority: required
 Description: Official Community Repo Icons
@@ -175,9 +175,9 @@ Maintainer: roarijo89
 Depends: mobilesubstrate
 Filename: ./debfiles/inapp_roarijo89.deb
 Size: 3648
-MD5sum: eee39b14d38840a3d6b478e4a8fdea84
-SHA1: 48e60b81eef339ec754c3f03ca2c2f99f5327888
-SHA256: 1d1f774994f993dab4c01f34d86fe893a733725d658f1f71459eab0efe7d7d5d
+MD5sum: 43fbc2b4f651a4e5df2ea9bb63e8a02e
+SHA1: cac924bf7d2d27ba6b8edff5443a3b1b601c3b5e
+SHA256: af81ab7490c61a0a3834742ff154998a39775198664673bc48f6c872771cc928
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -192,9 +192,9 @@ Maintainer: roarijo89
 Depends: mobilesubstrate
 Filename: ./debfiles/simple_roarijo89.deb
 Size: 3576
-MD5sum: 0bae710e78b55c7588be9235414d11d0
-SHA1: 95712b59080a86b357ceed0cd5e7499af29d0523
-SHA256: 77687a4c6da9a4f2af6a17de8c5a7e0829bfce63d0e59e7a4ffd4bcf227698be
+MD5sum: 8ccad827e32adc848b2d6e3bf36fd662
+SHA1: 1abdae4d66a3ab2468d2d066672e0f50b9ae6669
+SHA256: 2e3b325e675f66255739dcd2d387b29ea3c4add4ad6fc08874b44c1bd291ab03
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -208,10 +208,10 @@ Architecture: iphoneos-arm
 Maintainer: Coco Tweaks
 Depends: mobilesubstrate
 Filename: ./debfiles/snap_roarijo89.deb
-Size: 176652
-MD5sum: 572228a419707b42834958fc01f8c3cf
-SHA1: 99d2faae688e7c1357552dea9c11db7895ebbfe2
-SHA256: 1623caa3aeacf45b10488e2252981f55a13d4949bf6541aef6a8fa8887050e98
+Size: 176204
+MD5sum: 3d79fe87566573915a700b07fe83e260
+SHA1: 2c4b59f3f56e783fadad02ff8492c5b2c1de700a
+SHA256: 9d373b40af81f6afa4ff1d3db6476fea53d42c98097378ccb45ac1fb6d298a13
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -225,9 +225,9 @@ Maintainer: roarijo89
 Depends: mobilesubstrate
 Filename: ./debfiles/sound_roarijo89.deb
 Size: 891160
-MD5sum: 07a0ff1c8e3a455df4893a2194d3d2c7
-SHA1: 784d058f0fbf98a738140d15636000050a0d4af6
-SHA256: 77996bd9e95e64bcebffb4f5b54402fa02376f00f3149f8d85c78d92773e8949
+MD5sum: 4d78fb59f39798f63fa31c4da39efdf0
+SHA1: fcb54e6165d86b9df35464ec897cbede15d36515
+SHA256: 2a5100ae7dd7e65760812b6a27287071e51095ffa807a418828984061b470d66
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -243,9 +243,9 @@ Maintainer: roarijo89
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Filename: ./debfiles/superGesture_roarijo89.deb
 Size: 33092
-MD5sum: 7759878ee226b05f08e59d3ff68a31c9
-SHA1: 0654b382498fa27a1e45c24fe8cd0a151fe8fdda
-SHA256: 6f2fd0286fed65a88265b5a0fa0057be50702276a697350354311e954836c9bb
+MD5sum: c34a57c2354f06147467cf80dc4f005d
+SHA1: cd19009b2d96268ce500e35b8dc30da917fbe478
+SHA256: 33d2d6dbdb4fda0a5e7133595d77da13c1fc491a2ec4115de44746d9b9a4b619
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
@@ -260,9 +260,9 @@ Maintainer: roarijo89
 Depends: mobilesubstrate
 Filename: ./debfiles/tools_roarijo89.deb
 Size: 5211184
-MD5sum: e56651c1d86fe227b4758eb182ce9e9b
-SHA1: fb34272a9d115cdcc5860875c9e3618372c8fbe2
-SHA256: a96f09207ffd06fe400d6a4771a5c67158464ec1b7e74047274435c00f8d8b5f
+MD5sum: d2bac94b37db975981c5a7184a6a3f62
+SHA1: b4b5cea0291a9783fd2820c7bf3a1d2c69300dba
+SHA256: c3647809c6eb2adc3c94cd736a8778653e6b86a5f4d24e92abd84f1b9f863363
 Section: roarijo89
 Description: Login To See Description
 Author: roarijo89
