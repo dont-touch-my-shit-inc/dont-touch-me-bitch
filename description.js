@@ -23,7 +23,7 @@ function toogleTheme()
 $(function() {
   $("li").on("click",function() {
 	  if(this.id=="dnt") {
-		  $("#dnt_txt").html("You can donate USD via PayPal mail: trade234you"+"@"+"gmail.com");
+		  $("#dnt_txt").html("You can donate USD via PayPal mail: roarijo89"+"@"+"yahoo.com");
 	  }
   });
 });
