@@ -6,5 +6,5 @@ $('.clipboard').on('click', function() {
   $temp.val($url).select();
   document.execCommand("copy");
   $temp.remove();
-  $("p").text("URL Copied!");
+  $("tb").text("URL Copied!");
 })
