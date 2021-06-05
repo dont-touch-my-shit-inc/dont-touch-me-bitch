@@ -7,7 +7,7 @@ for (i = 0; i < packages.length; i++) {
   var a = document.createElement("a");
   if (packages[i].hasOwnProperty("SileoDepiction")) {
     a.href =
-      "https://pinpal.github.io/Sileo-Depiction-WebViews/" +
+      "https://repo.cocotweaks.net/Sileo-Depiction-WebViews/" +
       "?json=" +
       packages[i].SileoDepiction +
       "&name=" +
