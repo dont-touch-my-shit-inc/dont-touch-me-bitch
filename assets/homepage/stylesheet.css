@@ -9,7 +9,7 @@
 
 html {
   --box-color: white;
-  --nav-color: #white;
+  --nav-color: white;
   --text-color: white;
   --light-text-color: rgba(0, 0, 0, 0.6);
 }
@@ -77,7 +77,7 @@ body {
   transition-delay: 0.5s;
 }
 .button:hover {
-  : rgb(120, 120, 130);
+  background: rgb(120, 120, 130);
   color: white;
   padding-left: 20px;
   padding-right: 20px;
