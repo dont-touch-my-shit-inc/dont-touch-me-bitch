@@ -30,14 +30,14 @@ for (i = 0; i < packages.length; i++) {
   var packageTitle = document.createElement("span");
   packageTitle.className = "packageTitle";
   packageTitle.innerText = packages[i].Name;
-  // Create Tweak Description
-  var packageDescription = document.createElement("span");
-  packageDescription.className = "packageDescription";
-  packageDescription.innerText = packages[i].Description;
-  // Append Name and Description to Content Holder
+  // Create Tweak Author
+  var packageAuthor = document.createElement("span");
+  packageAuthor.className = "packageAuthor";
+  packageAuthor.innerText = packages[i].Author;
+  // Append Name and Author to Content Holder
   packageContentHolder.appendChild(packageTitle);
   packageContentHolder.innerHTML += "</br>";
-  packageContentHolder.appendChild(packageDescription);
+  packageContentHolder.appendChild(packageAuthor);
   // Create Package Icon
   var packageIconHolder = document.createElement("div");
   packageIconHolder.className = "packageIconHolder";
