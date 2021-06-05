@@ -16,6 +16,7 @@
 	<link href="//cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@4/dark.css" rel="stylesheet">
 	<script src="//cdn.jsdelivr.net/npm/sweetalert2@10/dist/sweetalert2.min.js"></script>
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="assets/homepage/stylesheet.css">
 	<meta charset="utf-8">
 </head>
 <script src="jquery-3.2.1.min.js"></script>
@@ -149,6 +150,20 @@
 	<div style="text-align: center; font-size: 85%; margin-top: 10px; color: white;" class="copy-title"><b></b></div></strong>
 	<br>
 	<br>
+	<div class="subsection">
+		<h2 style="color: white;" id="subtitle">More Tweaks</h2>
+		<h2 style="color: white;" id="subsubtitle">More By the Community</h2>
+
+		<button class="button" onclick="expand('scrollerRepo')" id="scrollerRepoButton">
+			<img class="buttonIcon" src="/assets/homepage/expand.png">Show More
+		</button>
+
+		<div  class="scrollerContainer" id="scrollerRepoContainer">
+			<div class="scrollerGradientLeft"></div>
+			<div class="scrollerGradientRight"></div>
+			<div class="scroller" id="scrollerRepo"></div>
+		</div>
+	</div>
 	<center><span style="color: white; box-sizing: border-box; font-family: Georgia, 'Times New Roman', Times, serif;">(::::(((ADS)))::::)</span> </center>
 	<center><h4 style="color: white;">==((We Dont Control What You See Here))==</h4> </center>
 <div style="border: white; background-color: #444644;"></div>
@@ -169,6 +184,10 @@
     <script src="assets/js/tyty.js"></script>
 	<script src="assets/js/auth.js"></script>
 	<script src="js/new.js"></script>
+	<script src="assets/global.js"></script>
+<script src="https://pinpal.github.io/Sileo-Depiction-WebViews/repo/packagesDecode.js"></script>
+<script src="assets/packagesDecode.js"></script>
+<script src="assets/homepage/javascript.js"></script>
 <script>
         firebase.auth().onAuthStateChanged(function (user) {
                 if (user) {
