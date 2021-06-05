@@ -11,7 +11,7 @@ html {
   --box-color: white;
   --nav-color: white;
   --text-color: white;
-  --light-text-color: rgba(0, 0, 0, 0.6);
+  --light-text-color: white;
 }
 
 body {
@@ -48,7 +48,7 @@ body {
 /* Button */
 .button {
   display: none;
-  : rgb(130, 130, 140);
+  background: rgb(130, 130, 140);
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
   text-align: center;
   vertical-align: middle;
