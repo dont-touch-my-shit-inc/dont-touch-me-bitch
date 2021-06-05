@@ -1,4 +1,4 @@
-const imagesDirectory = "https://pinpal.github.io/Sileo-Depiction-WebViews/assets/categories/"
+const imagesDirectory = "https://repo.cocotweaks.net/view-repo/assets/categories/"
 
 function returnIcon(tweakSection) {
     // Validate TweakSection (prevent crash if null)
