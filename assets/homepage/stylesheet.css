@@ -9,13 +9,13 @@
 
 html {
   --box-color: white;
-  --nav-color: #292c30;
-  --text-color: black;
+  --nav-color: #white;
+  --text-color: white;
   --light-text-color: rgba(0, 0, 0, 0.6);
 }
 
 body {
-  background-color: #f8f9fa;
+  -color: #f8f9fa;
   margin: 0;
   margin-bottom: 30px;
 }
@@ -23,22 +23,22 @@ body {
 /* Scrollbar*/
 
 ::-webkit-scrollbar {
-  background-color: rgba(0, 0, 0, 0);
+  -color: rgba(0, 0, 0, 0);
   width: 16px;
 }
 ::-webkit-scrollbar-track {
-  background-color: var(--nav-color);
+  -color: var(--nav-color);
 }
 ::-webkit-scrollbar-track:hover {
-  background-color: var(--nav-color);
+  -color: var(--nav-color);
 }
 ::-webkit-scrollbar-thumb {
-  background-color: rgba(255, 255, 255, 0.4);
+  -color: rgba(255, 255, 255, 0.4);
   border-radius: 16px;
   border: 6px solid var(--nav-color);
 }
 ::-webkit-scrollbar-thumb:hover {
-  background-color: rgba(255, 255, 255, 0.5);
+  -color: rgba(255, 255, 255, 0.5);
   border: 4px solid var(--nav-color);
 }
 ::-webkit-scrollbar-button {
@@ -48,7 +48,7 @@ body {
 /* Button */
 .button {
   display: none;
-  background: rgb(130, 130, 140);
+  : rgb(130, 130, 140);
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
   text-align: center;
   vertical-align: middle;
@@ -77,7 +77,7 @@ body {
   transition-delay: 0.5s;
 }
 .button:hover {
-  background: rgb(120, 120, 130);
+  : rgb(120, 120, 130);
   color: white;
   padding-left: 20px;
   padding-right: 20px;
@@ -204,7 +204,7 @@ body {
 }
 
 .bigBox {
-  background: var(--box-color);
+  : var(--box-color);
   box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
   text-align: left;
   border-style: solid;
@@ -234,7 +234,7 @@ body {
   .bigBox {
     padding: 0 !important;
     border-radius: 0 !important;
-    background: none !important;
+    : none !important;
     border: none !important;
     box-shadow: none !important;
     min-width: 85px !important;
@@ -301,7 +301,7 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-image: linear-gradient(
+  -image: linear-gradient(
     to left,
     rgba(255, 255, 255, 0),
     #f8f9fa 90%
@@ -314,7 +314,7 @@ body {
   z-index: 1;
   right: 0;
   top: 0;
-  background-image: linear-gradient(
+  -image: linear-gradient(
     to right,
     rgba(255, 255, 255, 0),
     #f8f9fa 90%
@@ -323,14 +323,14 @@ body {
   height: 100%;
 }
 .subsection:hover .scrollerGradientLeft {
-  background-image: linear-gradient(
+  -image: linear-gradient(
     to left,
     rgba(255, 255, 255, 0),
     rgb(229, 229, 230) 90%
   );
 }
 .subsection:hover .scrollerGradientRight {
-  background-image: linear-gradient(
+  -image: linear-gradient(
     to right,
     rgba(255, 255, 255, 0),
     rgb(229, 229, 230) 90%
@@ -348,7 +348,7 @@ body {
   position: relative;
 }
 .subsection:hover {
-  background-color: rgb(229, 229, 230);
+  -color: rgb(229, 229, 230);
 }
 @media screen and (max-width: 900px) {
   .subsection {
@@ -373,7 +373,7 @@ body {
 
 /*Navbar*/
 #navbarContainer {
-  background-color: var(--nav-color);
+  -color: var(--nav-color);
   height: 75px;
   width: 100%;
   z-index: 999;
@@ -427,7 +427,7 @@ body {
   -ms-transition: all 0.3s ease;
 }
 .navButton:hover {
-  background: white;
+  : white;
   cursor: pointer;
   color: black;
   padding-left: 40px;
@@ -470,7 +470,7 @@ body {
   padding-top: 130px;
   padding-bottom: 80px;
   margin-bottom: 35px;
-  background-color: var(--nav-color);
+  -color: var(--nav-color);
   color: white;
   text-align: center;
 }
@@ -491,20 +491,20 @@ body {
   font-size: 11pt;
   padding: 5px 25px;
   outline: none;
-  background: none;
+  : none;
   cursor: pointer;
   color: rgba(255, 255, 255, 0.6);
-  transition: background 0.3s ease, margin 0.3s ease, max-height 0.3s ease;
-  -webkit-transition: background 0.3s ease,
+  transition:  0.3s ease, margin 0.3s ease, max-height 0.3s ease;
+  -webkit-transition:  0.3s ease,
     margin 0.3s ease max-height 0.3s ease;
-  -moz-transition: background 0.3s ease, margin 0.3s ease max-height 0.3s ease;
-  -o-transition: background 0.3s ease, margin 0.3s ease max-height 0.3s ease;
-  -ms-transition: background 0.3s ease, margin 0.3s ease max-height 0.3s ease;
+  -moz-transition:  0.3s ease, margin 0.3s ease max-height 0.3s ease;
+  -o-transition:  0.3s ease, margin 0.3s ease max-height 0.3s ease;
+  -ms-transition:  0.3s ease, margin 0.3s ease max-height 0.3s ease;
 }
 #topBanner button:hover {
   font-weight: bold;
   border: 2px solid rgba(255, 255, 255, 0.6);
-  background: white;
+  : white;
   color: black;
 }
 #topBanner button::after {
@@ -514,8 +514,8 @@ body {
   left: 50%;
   transform: translateX(-50%) scale(0.5);
   position: absolute;
-  background-image: url(/assets/homepage/expand.png);
-  background-size: cover;
+  -image: url(/assets/homepage/expand.png);
+  -size: cover;
   display: block;
   content: "i";
   color: rgba(0, 0, 0, 0);
@@ -701,7 +701,7 @@ body {
   border-top-style: solid;
   border-width: 1px;
   border-color: rgb(223, 223, 223);
-  background-color: white;
+  -color: white;
   color: var(--text-color);
 }
 .largeBoxInner h1 {
