@@ -7,7 +7,7 @@ for (i = 0; i < packages.length; i++) {
   var a = document.createElement("a");
   if (packages[i].hasOwnProperty("SileoDepiction")) {
     a.href =
-      "https://repo.cocotweaks.net/Sileo-Depiction-WebViews/" +
+      "https://repo.cocotweaks.net/view-repo" +
       "?json=" +
       packages[i].SileoDepiction +
       "&name=" +
@@ -30,14 +30,14 @@ for (i = 0; i < packages.length; i++) {
   var packageTitle = document.createElement("span");
   packageTitle.className = "packageTitle";
   packageTitle.innerText = packages[i].Name;
-  // Create Tweak Author
-  var packageAuthor = document.createElement("span");
-  packageAuthor.className = "packageAuthor";
-  packageAuthor.innerText = packages[i].Author;
-  // Append Name and Author to Content Holder
+  // Create Tweak Description
+  var packageDescription = document.createElement("span");
+  packageDescription.className = "packageDescription";
+  packageDescription.innerText = packages[i].Description;
+  // Append Name and Description to Content Holder
   packageContentHolder.appendChild(packageTitle);
   packageContentHolder.innerHTML += "</br>";
-  packageContentHolder.appendChild(packageAuthor);
+  packageContentHolder.appendChild(packageDescription);
   // Create Package Icon
   var packageIconHolder = document.createElement("div");
   packageIconHolder.className = "packageIconHolder";
