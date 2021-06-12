@@ -1,0 +1,10 @@
+Package: com.stem.musicer
+Name: Musicer
+Architecture: iphoneos-arm
+Description: Login To See Description
+Depiction: https://repo.cocotweaks.net/description.html?id=com.stem.musicer
+Maintainer: stem grade
+Author: stem grade
+Section: stem grade
+Version: 3.1
+Source: https://repo.cocotweaks.net

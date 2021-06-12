@@ -1,0 +1,11 @@
+{
+	"name": "Musicer",
+	"desc_long": "🚨Musicer is for YouTube Music Tweaker Support for arm64 arm64e only to used the tweak open up youtube music at the top bar click on SG.",
+	"compatitle": "13 14 15",
+	"version_web": "3.1",
+	"date_web": "06/12/2021",
+	"developer_name_web": "stem grade",
+	"changelog": "<strong>3.1</strong><br>Support for arm64 arm64e<br> ",
+	"screenshot": "<div style='text-align:center;'><a href='https://repo.cocotweaks.net/img/com.stem.musicer/1.PNG' target='_blank'><img width=95% src='https://repo.cocotweaks.net/img/com.stem.musicer/1.PNG'/></a></div>",
+	"open": true,
+}
