@@ -1,3 +1,6 @@
 delete everything: ./remove.sh
 make debs: ./pack.sh
 sign files: ./sign.sh
+
+
+this to help me stop using my shit 
