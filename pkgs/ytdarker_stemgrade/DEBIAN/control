@@ -1,10 +1,11 @@
 Package: com.stem.oled
 Name: YT Darker
 Author: stem grade
-Description: YT Darker mode. the original youtube dark mode suck big time so is this a darker mode for youtube "Support armv6 armv7 armv7s arm64 arm64e".
+Description: Login To See Description
+Depiction: https://repo.cocotweaks.net/description.html?id=com.stem.oled
 Depends: mobilesubstrate, preferenceloader
 Maintainer: stem grade
 Architecture: iphoneos-arm
-Section: Tweaks
+Section: stem grade
 Version: 1.0
-Installed-Size: 704
+Source: https://repo.cocotweaks.net
