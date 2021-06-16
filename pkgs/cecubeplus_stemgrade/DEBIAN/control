@@ -1,0 +1,11 @@
+Package: com.stem.youtube
+Name: CerCube Plus 
+Author: stem grade
+Description: Login To See Description
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Maintainer: stem grade
+Depiction: https://repo.cocotweaks.net/description.html?id=com.stem.youtube
+Source: https://repo.cocotweaks.net
+Architecture: iphoneos-arm
+Section: StemGrade
+Version: 1.0

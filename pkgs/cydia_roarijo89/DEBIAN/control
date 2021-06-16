@@ -2,7 +2,7 @@ Package: com.roarijo89.cydia
 Name: Cydia 2021 early version
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Maintainer: Coco Tweaks <>
+Maintainer: roarijo89
 Description: Login To See Description
 Author: roarijo89
 Section: roarijo89

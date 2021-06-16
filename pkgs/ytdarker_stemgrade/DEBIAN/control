@@ -6,6 +6,6 @@ Depiction: https://repo.cocotweaks.net/description.html?id=com.stem.oled
 Depends: mobilesubstrate, preferenceloader
 Maintainer: stem grade
 Architecture: iphoneos-arm
-Section: stem grade
+Section: StemGrade
 Version: 1.0
 Source: https://repo.cocotweaks.net
