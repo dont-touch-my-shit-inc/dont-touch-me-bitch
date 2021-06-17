@@ -1,0 +1,11 @@
+{
+	"name": "Screen Shoot",
+	"desc_long": "🚨Hold 2 finger at once on status bar and swipe down to take screen shoot🚨",
+	"compatitle": "13 14 15",
+	"version_web": "1.0",
+	"date_web": "06/12/2021",
+	"developer_name_web": "stem grade",
+	"changelog": "<strong>1.0</strong><br>Support for arm64 arm64e<br> ",
+	"screenshot": "<div style='text-align:center;'><a href='https://repo.cocotweaks.net/img/com.stem.screenshoot/1.PNG' target='_blank'><img width=95% src='https://repo.cocotweaks.net/img/com.stem.screenshoot/1.PNG'/></a></div>",
+	"open": true,
+}
