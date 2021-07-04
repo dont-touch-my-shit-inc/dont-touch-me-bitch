@@ -3,7 +3,7 @@ Name: YT Darker
 Author: stem grade
 Description: Login To See Description
 Depiction: https://repo.cocotweaks.net/description.html?id=com.stem.oled
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.spark.libsparkcolourpicker
 Maintainer: stem grade
 Architecture: iphoneos-arm
 Section: StemGrade

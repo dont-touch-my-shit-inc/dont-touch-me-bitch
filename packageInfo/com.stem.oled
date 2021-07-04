@@ -2,10 +2,10 @@
 	"name": "YT Darker",
 	"desc_long": "🚨YT Darker mode. the original youtube dark mode suck big time so is this a darker mode for youtube Support armv6 armv7 armv7s arm64 arm64e🚨",
 	"compatitle": "13 14 15",
-	"version_web": "1.0",
+	"version_web": "1.1",
 	"date_web": "06/12/2021",
 	"developer_name_web": "stem grade",
-	"changelog": "<strong>1.0</strong><br>stem grade was here<br> ",
+	"changelog": "<strong>1.0</strong><br>stem grade was here<br><br> <strong>1.1</strong><br>-Ytdarker improve darkmode<br><br> -added other tweaks <br><br> -added colours changer for some things ",
 	"screenshot": "<div style='text-align:center;'><a href='https://repo.cocotweaks.net/img/com.stem.oled/1.PNG' target='_blank'><img width=95% src='https://repo.cocotweaks.net/img/com.stem.oled/1.PNG'/></a></div>",
 	"open": true,
 }
