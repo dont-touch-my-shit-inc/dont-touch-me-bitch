@@ -9,17 +9,17 @@ function pop(){
       
       swalWithBootstrapButtons.fire({
         title: '✅',
-        text: "Where do you want to get this Tweak from ?",
+        text: "Where Do you Want to Get This Tweak From ?",
         icon: 'warning',
         showCancelButton: true,
         confirmButtonText: 'Cydia',
-        cancelButtonText: 'Cocox',
+        cancelButtonText: 'Zebra',
         reverseButtons: true
       }).then((result) => {
         if (result.isConfirmed) {
           swalWithBootstrapButtons.fire(
             'Cydia',
-      '<a href="cydia://api/share#/source=https://repo.cocotweaks.net">Open cydia</a>',
+      '<a href="cydia://api/share#/source=https://repo.cocotweaks.net">Open Cydia</a>',
       'success'
     )
         } else if (
@@ -28,7 +28,7 @@ function pop(){
         ) {
           swalWithBootstrapButtons.fire(
             'Cocox',
-            '<a href="cox://sources/add/https://repo.cocotweaks.net">Open cocox</a>',
+            '<a href="zbra://sources/add/https://repo.cocotweaks.net">Open Zebra</a>',
             'success'
           )
         }
